@@ -1,0 +1,60 @@
+```gitignore
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Node.js
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Editors and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local databases and backups
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+
+# Secrets and private keys
+*.pem
+*.key
+
+# Docker files are not part of our deployment plan
+# Database backups
+*.dump
+*.sql.bak
+
+# Temporary source backups
+*.backup
+*.backup.*
+
+# Model backups
+*.joblib.backup

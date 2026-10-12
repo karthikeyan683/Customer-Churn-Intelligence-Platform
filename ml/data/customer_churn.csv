@@ -1,0 +1,1001 @@
+customer_id,gender,age,tenure_months,monthly_charges,total_charges,contract_type,payment_method,internet_service,support_tickets,satisfaction_score,churned,signup_date
+CUS-0001,Male,58,15,27.38,382.98,Month-to-month,Bank transfer,No internet,1,7.1,False,2025-07-15
+CUS-0002,Female,20,4,33.9,124.72,Two year,Credit card,No internet,3,7.4,False,2026-06-10
+CUS-0003,Female,55,36,101.9,3125.29,Month-to-month,Mailed check,DSL,4,2.4,True,2023-10-24
+CUS-0004,Female,42,13,59.1,732.33,One year,Credit card,No internet,7,5.8,True,2025-09-13
+CUS-0005,Male,36,47,79.85,3983.27,Month-to-month,Bank transfer,DSL,1,8.7,False,2022-11-28
+CUS-0006,Male,47,47,40.45,1818.6,Two year,Electronic check,No internet,1,6.5,False,2022-11-28
+CUS-0007,Male,33,21,68.91,1347.24,Two year,Bank transfer,No internet,5,8.6,False,2025-01-16
+CUS-0008,Female,20,41,63.11,2250.76,Two year,Electronic check,Fiber optic,7,4.6,True,2023-05-27
+CUS-0009,Male,26,32,95.77,3100.48,Two year,Mailed check,No internet,6,4.3,False,2024-02-21
+CUS-0010,Female,23,7,106.8,669.74,Month-to-month,Mailed check,No internet,1,4.5,True,2026-03-12
+CUS-0011,Female,53,2,89.63,158.53,Two year,Electronic check,No internet,5,2.0,True,2026-08-09
+CUS-0012,Male,18,34,117.33,4302.73,Two year,Credit card,No internet,4,8.6,True,2023-12-23
+CUS-0013,Male,66,21,76.24,1734.87,Two year,Credit card,No internet,5,5.4,False,2025-01-16
+CUS-0014,Male,74,40,47.75,1761.52,Two year,Credit card,Fiber optic,7,8.3,True,2023-06-26
+CUS-0015,Male,48,71,40.69,2912.97,Two year,Mailed check,Fiber optic,8,7.8,False,2020-12-08
+CUS-0016,Male,43,48,66.62,3214.62,Month-to-month,Bank transfer,Fiber optic,1,4.0,False,2022-10-29
+CUS-0017,Female,18,10,92.24,800.33,Month-to-month,Credit card,DSL,1,5.6,False,2025-12-12
+CUS-0018,Male,31,70,37.57,2973.51,Two year,Mailed check,Fiber optic,7,8.3,True,2021-01-07
+CUS-0019,Female,60,56,58.66,3197.35,Two year,Credit card,No internet,1,1.5,False,2022-03-03
+CUS-0020,Male,24,32,43.2,1397.45,Month-to-month,Mailed check,Fiber optic,4,5.2,False,2024-02-21
+CUS-0021,Female,73,71,34.3,2546.46,Two year,Credit card,Fiber optic,3,2.5,False,2020-12-08
+CUS-0022,Female,73,52,110.73,5178.66,Month-to-month,Mailed check,DSL,7,3.6,True,2022-07-01
+CUS-0023,Female,36,28,117.03,3354.68,Two year,Credit card,No internet,5,1.5,False,2024-06-20
+CUS-0024,Male,72,68,39.96,3092.9,Month-to-month,Bank transfer,Fiber optic,1,7.1,False,2021-03-08
+CUS-0025,Female,74,32,80.0,2206.52,Month-to-month,Mailed check,No internet,8,3.8,True,2024-02-21
+CUS-0026,Male,63,41,47.68,1893.76,Two year,Electronic check,DSL,5,9.4,True,2023-05-27
+CUS-0027,Female,57,13,31.96,379.73,One year,Bank transfer,DSL,1,8.9,False,2025-09-13
+CUS-0028,Male,46,70,91.84,6644.19,Two year,Credit card,No internet,8,3.7,False,2021-01-07
+CUS-0029,Female,26,34,35.97,1078.8,Two year,Bank transfer,DSL,4,6.4,False,2023-12-23
+CUS-0030,Male,58,34,73.01,2297.0,Month-to-month,Credit card,No internet,6,8.5,True,2023-12-23
+CUS-0031,Male,67,17,85.53,1350.17,Two year,Mailed check,No internet,6,6.0,True,2025-05-16
+CUS-0032,Female,74,20,76.83,1690.84,Two year,Bank transfer,DSL,2,1.4,False,2025-02-15
+CUS-0033,Female,68,6,110.4,604.79,Month-to-month,Credit card,DSL,8,9.0,False,2026-04-11
+CUS-0034,Female,65,20,112.95,2080.59,Month-to-month,Bank transfer,DSL,0,2.6,False,2025-02-15
+CUS-0035,Female,44,32,50.35,1750.11,Month-to-month,Mailed check,Fiber optic,7,3.0,True,2024-02-21
+CUS-0036,Female,70,30,46.18,1451.91,One year,Electronic check,DSL,1,9.7,False,2024-04-21
+CUS-0037,Female,50,52,89.55,5136.69,One year,Credit card,Fiber optic,4,2.6,True,2022-07-01
+CUS-0038,Female,56,56,57.84,3517.37,One year,Credit card,DSL,3,3.3,True,2022-03-03
+CUS-0039,Female,69,69,90.25,7049.74,Two year,Bank transfer,DSL,6,1.6,False,2021-02-06
+CUS-0040,Male,60,16,93.38,1404.58,One year,Mailed check,DSL,6,7.3,True,2025-06-15
+CUS-0041,Female,60,49,89.35,4907.21,Two year,Electronic check,DSL,8,8.5,True,2022-09-29
+CUS-0042,Female,45,42,69.17,2854.73,Month-to-month,Mailed check,No internet,2,6.9,False,2023-04-27
+CUS-0043,Male,58,43,33.87,1653.9,Month-to-month,Electronic check,Fiber optic,3,2.3,True,2023-03-28
+CUS-0044,Male,48,10,68.26,761.67,Two year,Bank transfer,No internet,6,5.4,True,2025-12-12
+CUS-0045,Female,62,1,109.8,121.67,Month-to-month,Mailed check,Fiber optic,2,8.2,True,2026-09-08
+CUS-0046,Female,33,16,68.36,1192.66,Two year,Electronic check,DSL,8,4.8,False,2025-06-15
+CUS-0047,Female,65,61,67.76,4445.57,Two year,Electronic check,No internet,7,6.6,False,2021-10-04
+CUS-0048,Male,63,37,47.28,1663.21,Two year,Credit card,Fiber optic,2,3.1,False,2023-09-24
+CUS-0049,Male,22,54,63.72,3484.87,One year,Credit card,Fiber optic,6,4.5,False,2022-05-02
+CUS-0050,Male,66,49,70.31,3902.79,One year,Mailed check,DSL,8,7.7,False,2022-09-29
+CUS-0051,Male,35,56,71.14,3851.01,Two year,Mailed check,No internet,2,8.6,False,2022-03-03
+CUS-0052,Female,52,4,111.16,456.9,Two year,Credit card,Fiber optic,6,2.2,True,2026-06-10
+CUS-0053,Male,34,49,56.1,2711.54,One year,Mailed check,DSL,6,3.3,False,2022-09-29
+CUS-0054,Male,65,70,29.95,2380.73,Month-to-month,Credit card,No internet,0,7.8,True,2021-01-07
+CUS-0055,Male,19,20,47.66,945.64,Month-to-month,Bank transfer,DSL,4,7.9,False,2025-02-15
+CUS-0056,Female,65,15,98.89,1333.72,One year,Credit card,No internet,0,9.4,False,2025-07-15
+CUS-0057,Male,63,26,32.22,885.62,Two year,Bank transfer,Fiber optic,4,8.7,False,2024-08-19
+CUS-0058,Female,54,6,57.98,340.41,One year,Credit card,No internet,5,1.1,False,2026-04-11
+CUS-0059,Female,24,56,116.27,6775.96,One year,Bank transfer,DSL,2,7.6,False,2022-03-03
+CUS-0060,Male,52,62,69.16,4706.94,Two year,Electronic check,DSL,3,8.5,False,2021-09-04
+CUS-0061,Female,46,32,96.3,3146.17,Two year,Mailed check,DSL,0,5.4,False,2024-02-21
+CUS-0062,Male,31,46,100.79,4414.27,Two year,Electronic check,No internet,0,5.6,True,2022-12-28
+CUS-0063,Male,64,53,71.41,4077.86,Two year,Mailed check,No internet,7,5.0,True,2022-06-01
+CUS-0064,Female,32,52,90.72,4443.18,Two year,Electronic check,DSL,8,5.8,False,2022-07-01
+CUS-0065,Female,53,43,58.42,2477.2,One year,Electronic check,Fiber optic,1,7.5,True,2023-03-28
+CUS-0066,Female,52,24,43.2,1111.02,One year,Electronic check,Fiber optic,3,3.7,True,2024-10-18
+CUS-0067,Female,18,69,37.03,2206.7,Month-to-month,Electronic check,No internet,2,6.7,True,2021-02-06
+CUS-0068,Male,18,37,69.59,2528.85,Month-to-month,Credit card,DSL,7,2.0,True,2023-09-24
+CUS-0069,Female,22,7,39.41,301.62,One year,Credit card,Fiber optic,1,6.0,False,2026-03-12
+CUS-0070,Male,68,29,98.69,2759.3,One year,Electronic check,No internet,6,3.7,False,2024-05-21
+CUS-0071,Male,65,13,115.02,1364.18,Month-to-month,Electronic check,No internet,1,2.4,True,2025-09-13
+CUS-0072,Female,28,1,63.81,67.44,One year,Electronic check,Fiber optic,3,3.6,False,2026-09-08
+CUS-0073,Male,47,10,90.3,1017.84,Two year,Bank transfer,DSL,1,5.9,False,2025-12-12
+CUS-0074,Female,70,19,31.78,543.3,One year,Electronic check,DSL,1,5.2,False,2025-03-17
+CUS-0075,Male,35,65,76.3,4866.89,Two year,Credit card,DSL,5,6.4,True,2021-06-06
+CUS-0076,Female,61,3,119.96,378.48,One year,Credit card,Fiber optic,7,5.7,False,2026-07-10
+CUS-0077,Male,29,56,85.3,4764.94,Month-to-month,Mailed check,DSL,6,4.0,False,2022-03-03
+CUS-0078,Female,39,53,90.9,4511.61,One year,Credit card,DSL,1,3.8,True,2022-06-01
+CUS-0079,Female,67,52,107.17,6116.07,Month-to-month,Mailed check,DSL,0,2.7,False,2022-07-01
+CUS-0080,Female,49,57,97.2,5047.68,Two year,Bank transfer,DSL,7,8.9,True,2022-02-01
+CUS-0081,Male,58,31,92.43,2702.65,Month-to-month,Mailed check,Fiber optic,3,9.9,False,2024-03-22
+CUS-0082,Male,25,20,72.35,1541.03,Two year,Electronic check,DSL,7,9.8,False,2025-02-15
+CUS-0083,Female,27,50,43.11,2219.76,Two year,Bank transfer,Fiber optic,4,8.0,False,2022-08-30
+CUS-0084,Female,68,65,50.38,2786.02,Two year,Electronic check,No internet,7,8.8,False,2021-06-06
+CUS-0085,Male,40,43,77.43,3372.87,One year,Electronic check,Fiber optic,3,6.1,False,2023-03-28
+CUS-0086,Male,44,6,55.23,328.69,One year,Mailed check,No internet,2,5.5,True,2026-04-11
+CUS-0087,Male,55,43,107.62,5147.15,One year,Credit card,No internet,7,1.1,True,2023-03-28
+CUS-0088,Female,59,20,32.11,696.44,One year,Electronic check,No internet,6,6.8,False,2025-02-15
+CUS-0089,Male,72,69,61.1,3984.02,Two year,Mailed check,No internet,0,6.6,False,2021-02-06
+CUS-0090,Male,36,30,95.94,2821.19,Month-to-month,Credit card,DSL,2,7.2,True,2024-04-21
+CUS-0091,Male,68,8,52.87,407.08,Month-to-month,Bank transfer,No internet,6,6.1,True,2026-02-10
+CUS-0092,Female,23,49,83.87,3790.1,Two year,Bank transfer,Fiber optic,7,6.7,True,2022-09-29
+CUS-0093,Female,18,60,110.61,6990.22,Month-to-month,Credit card,DSL,5,9.9,False,2021-11-03
+CUS-0094,Female,45,33,68.4,2123.2,One year,Mailed check,Fiber optic,3,4.4,False,2024-01-22
+CUS-0095,Female,62,38,27.08,1130.93,One year,Electronic check,Fiber optic,0,9.2,False,2023-08-25
+CUS-0096,Male,75,37,98.7,3356.23,One year,Bank transfer,No internet,3,6.6,False,2023-09-24
+CUS-0097,Female,75,6,54.35,320.31,Two year,Electronic check,No internet,2,1.8,True,2026-04-11
+CUS-0098,Female,44,23,44.08,1100.98,One year,Electronic check,Fiber optic,4,9.2,False,2024-11-17
+CUS-0099,Female,36,44,101.4,4419.21,Month-to-month,Bank transfer,Fiber optic,6,9.7,True,2023-02-26
+CUS-0100,Female,43,2,50.12,88.92,One year,Electronic check,No internet,6,8.4,True,2026-08-09
+CUS-0101,Female,32,61,27.38,1862.7,Two year,Electronic check,No internet,3,6.8,False,2021-10-04
+CUS-0102,Male,37,53,36.08,1651.42,Month-to-month,Electronic check,DSL,1,1.9,True,2022-06-01
+CUS-0103,Female,41,70,64.82,4867.18,Month-to-month,Mailed check,No internet,1,8.5,False,2021-01-07
+CUS-0104,Female,35,5,90.58,414.49,One year,Bank transfer,DSL,1,9.8,False,2026-05-11
+CUS-0105,Male,59,46,30.75,1319.4,Month-to-month,Mailed check,Fiber optic,3,6.8,True,2022-12-28
+CUS-0106,Male,39,32,118.94,4133.76,Month-to-month,Credit card,No internet,3,6.3,True,2024-02-21
+CUS-0107,Male,27,1,51.34,58.8,Month-to-month,Electronic check,Fiber optic,1,6.9,True,2026-09-08
+CUS-0108,Male,40,31,80.94,2144.65,One year,Credit card,Fiber optic,6,5.7,False,2024-03-22
+CUS-0109,Female,67,47,73.76,3060.13,Two year,Bank transfer,No internet,0,7.5,False,2022-11-28
+CUS-0110,Male,19,8,119.87,1058.87,One year,Credit card,DSL,7,1.7,True,2026-02-10
+CUS-0111,Female,27,9,36.99,345.33,Two year,Electronic check,DSL,8,3.7,True,2026-01-11
+CUS-0112,Female,62,15,106.02,1662.3,Two year,Bank transfer,DSL,7,9.0,False,2025-07-15
+CUS-0113,Male,47,52,64.52,2947.49,One year,Electronic check,No internet,4,4.4,False,2022-07-01
+CUS-0114,Male,48,9,33.67,265.34,One year,Credit card,No internet,5,8.3,False,2026-01-11
+CUS-0115,Female,53,72,56.32,3595.48,One year,Mailed check,No internet,0,9.7,False,2020-11-08
+CUS-0116,Female,54,65,45.21,3076.83,Month-to-month,Credit card,DSL,8,4.3,False,2021-06-06
+CUS-0117,Female,69,55,105.29,6615.37,Two year,Credit card,No internet,4,1.3,False,2022-04-02
+CUS-0118,Male,37,44,58.35,2322.01,Month-to-month,Mailed check,Fiber optic,2,7.7,True,2023-02-26
+CUS-0119,Male,51,28,60.74,1677.07,Month-to-month,Electronic check,DSL,5,8.0,False,2024-06-20
+CUS-0120,Female,27,21,96.67,1755.87,Month-to-month,Electronic check,DSL,6,5.4,True,2025-01-16
+CUS-0121,Female,31,66,35.81,2313.77,One year,Mailed check,No internet,4,1.4,False,2021-05-07
+CUS-0122,Female,21,1,44.42,50.35,Month-to-month,Electronic check,DSL,5,2.1,False,2026-09-08
+CUS-0123,Male,29,17,61.12,1102.53,Two year,Electronic check,Fiber optic,6,8.8,False,2025-05-16
+CUS-0124,Female,47,10,106.9,1093.3,Two year,Mailed check,No internet,6,3.6,True,2025-12-12
+CUS-0125,Male,38,22,101.13,2303.7,Two year,Electronic check,Fiber optic,6,8.6,False,2024-12-17
+CUS-0126,Male,43,68,32.47,2453.39,Two year,Electronic check,Fiber optic,5,8.0,False,2021-03-08
+CUS-0127,Male,25,68,73.45,5602.83,One year,Electronic check,No internet,2,3.1,True,2021-03-08
+CUS-0128,Female,29,20,97.22,2035.11,Month-to-month,Mailed check,DSL,7,7.1,False,2025-02-15
+CUS-0129,Male,58,41,39.34,1404.04,One year,Electronic check,DSL,0,4.2,False,2023-05-27
+CUS-0130,Male,46,5,30.4,167.13,Month-to-month,Credit card,No internet,8,4.5,True,2026-05-11
+CUS-0131,Female,69,25,55.55,1378.6,Month-to-month,Credit card,DSL,1,8.3,False,2024-09-18
+CUS-0132,Male,23,65,86.38,4838.43,Two year,Mailed check,DSL,8,5.7,False,2021-06-06
+CUS-0133,Male,36,50,63.83,3036.74,Two year,Credit card,No internet,5,1.6,False,2022-08-30
+CUS-0134,Male,42,37,48.94,2001.76,Two year,Bank transfer,DSL,1,6.2,False,2023-09-24
+CUS-0135,Female,37,51,37.25,2018.77,Month-to-month,Electronic check,No internet,6,6.8,False,2022-07-31
+CUS-0136,Male,60,68,33.88,2421.65,Two year,Electronic check,Fiber optic,5,3.8,True,2021-03-08
+CUS-0137,Male,67,63,43.24,3132.72,Month-to-month,Credit card,DSL,1,5.6,False,2021-08-05
+CUS-0138,Female,74,17,81.74,1245.45,Month-to-month,Bank transfer,No internet,7,1.4,False,2025-05-16
+CUS-0139,Female,33,57,83.01,5089.83,One year,Bank transfer,No internet,3,3.8,False,2022-02-01
+CUS-0140,Female,30,48,89.44,4383.82,One year,Mailed check,DSL,6,5.5,False,2022-10-29
+CUS-0141,Male,70,26,101.12,2343.91,One year,Credit card,No internet,7,8.9,False,2024-08-19
+CUS-0142,Male,51,16,52.08,899.05,One year,Mailed check,No internet,2,8.5,False,2025-06-15
+CUS-0143,Female,32,58,109.04,7141.05,One year,Credit card,DSL,8,4.4,False,2022-01-02
+CUS-0144,Female,41,29,27.68,906.47,Two year,Electronic check,Fiber optic,2,1.3,False,2024-05-21
+CUS-0145,Female,26,61,67.62,3512.6,Month-to-month,Credit card,DSL,3,8.5,True,2021-10-04
+CUS-0146,Female,36,31,53.61,1436.43,One year,Mailed check,Fiber optic,1,8.5,False,2024-03-22
+CUS-0147,Female,19,66,79.63,5600.15,One year,Mailed check,Fiber optic,5,3.2,True,2021-05-07
+CUS-0148,Female,60,11,74.73,787.65,Two year,Credit card,DSL,7,1.4,False,2025-11-12
+CUS-0149,Female,34,3,58.92,153.83,Month-to-month,Credit card,No internet,5,2.2,True,2026-07-10
+CUS-0150,Male,70,23,103.89,2521.86,Two year,Mailed check,No internet,2,8.3,False,2024-11-17
+CUS-0151,Female,47,5,52.88,228.21,Month-to-month,Credit card,DSL,4,5.6,True,2026-05-11
+CUS-0152,Female,66,25,52.18,1446.22,Month-to-month,Electronic check,DSL,1,8.2,False,2024-09-18
+CUS-0153,Female,65,57,109.99,6056.23,Month-to-month,Mailed check,No internet,7,4.3,False,2022-02-01
+CUS-0154,Female,64,55,32.5,1842.44,Month-to-month,Electronic check,DSL,1,1.7,True,2022-04-02
+CUS-0155,Female,56,55,40.83,2207.86,One year,Credit card,No internet,5,6.5,False,2022-04-02
+CUS-0156,Female,68,8,32.13,267.64,One year,Bank transfer,Fiber optic,2,8.6,True,2026-02-10
+CUS-0157,Female,22,31,98.96,2944.74,One year,Credit card,No internet,2,7.1,False,2024-03-22
+CUS-0158,Male,66,10,79.52,802.23,One year,Electronic check,No internet,4,3.2,True,2025-12-12
+CUS-0159,Female,29,64,74.19,5337.23,Month-to-month,Electronic check,DSL,7,2.9,False,2021-07-06
+CUS-0160,Female,49,26,36.65,1053.76,One year,Bank transfer,No internet,7,10.0,False,2024-08-19
+CUS-0161,Male,63,9,77.25,651.52,One year,Bank transfer,No internet,2,8.1,True,2026-01-11
+CUS-0162,Male,30,18,47.49,853.29,One year,Electronic check,DSL,8,2.2,True,2025-04-16
+CUS-0163,Female,43,62,74.94,5021.46,Two year,Credit card,Fiber optic,5,6.8,False,2021-09-04
+CUS-0164,Male,51,45,37.19,1838.76,Two year,Bank transfer,Fiber optic,6,5.5,False,2023-01-27
+CUS-0165,Male,51,20,53.89,968.5,Two year,Bank transfer,DSL,8,9.1,False,2025-02-15
+CUS-0166,Male,58,71,51.07,3761.97,Two year,Credit card,No internet,2,6.3,False,2020-12-08
+CUS-0167,Female,57,44,105.04,4709.97,Month-to-month,Credit card,Fiber optic,4,6.9,False,2023-02-26
+CUS-0168,Female,19,64,109.45,7100.58,Two year,Electronic check,DSL,3,8.2,False,2021-07-06
+CUS-0169,Female,22,8,40.02,312.06,One year,Bank transfer,DSL,2,3.8,False,2026-02-10
+CUS-0170,Female,73,45,117.66,4708.21,One year,Credit card,DSL,3,5.2,False,2023-01-27
+CUS-0171,Female,27,13,29.81,439.31,Two year,Mailed check,Fiber optic,2,8.3,False,2025-09-13
+CUS-0172,Female,28,64,119.62,7579.46,One year,Mailed check,Fiber optic,1,9.5,False,2021-07-06
+CUS-0173,Male,31,46,29.62,1273.15,Two year,Mailed check,DSL,8,1.1,False,2022-12-28
+CUS-0174,Male,74,34,94.11,3453.02,One year,Credit card,DSL,0,6.1,False,2023-12-23
+CUS-0175,Male,36,10,61.7,607.81,Two year,Electronic check,No internet,1,2.2,True,2025-12-12
+CUS-0176,Male,68,44,77.99,3293.21,Month-to-month,Bank transfer,No internet,8,4.6,True,2023-02-26
+CUS-0177,Female,26,43,101.38,4384.62,Month-to-month,Bank transfer,DSL,5,2.5,True,2023-03-28
+CUS-0178,Male,50,66,75.57,5299.95,One year,Mailed check,Fiber optic,5,4.0,False,2021-05-07
+CUS-0179,Male,55,40,100.69,4299.85,Two year,Credit card,No internet,7,3.4,False,2023-06-26
+CUS-0180,Male,55,62,41.2,2653.27,Two year,Mailed check,Fiber optic,3,1.3,True,2021-09-04
+CUS-0181,Male,46,41,64.78,2586.63,Month-to-month,Mailed check,No internet,7,8.9,False,2023-05-27
+CUS-0182,Female,51,27,78.28,2429.4,One year,Mailed check,DSL,2,5.1,False,2024-07-20
+CUS-0183,Female,61,34,82.96,2560.24,Month-to-month,Electronic check,No internet,4,3.0,False,2023-12-23
+CUS-0184,Female,63,27,90.57,2437.32,One year,Electronic check,No internet,4,3.6,False,2024-07-20
+CUS-0185,Female,43,45,115.69,5681.8,One year,Credit card,DSL,1,4.1,False,2023-01-27
+CUS-0186,Male,65,62,45.33,3086.97,One year,Electronic check,Fiber optic,1,6.5,False,2021-09-04
+CUS-0187,Male,60,68,46.44,2904.82,Month-to-month,Mailed check,DSL,7,1.9,True,2021-03-08
+CUS-0188,Female,53,21,63.66,1511.33,One year,Mailed check,No internet,3,7.8,False,2025-01-16
+CUS-0189,Male,59,8,111.25,780.39,Two year,Bank transfer,No internet,0,9.2,False,2026-02-10
+CUS-0190,Male,71,23,113.72,2251.74,One year,Mailed check,Fiber optic,4,8.9,True,2024-11-17
+CUS-0191,Male,56,14,113.2,1506.37,One year,Mailed check,Fiber optic,8,5.2,False,2025-08-14
+CUS-0192,Male,39,21,94.46,2071.9,Two year,Bank transfer,Fiber optic,5,8.1,True,2025-01-16
+CUS-0193,Male,72,52,103.56,5409.81,Month-to-month,Mailed check,No internet,1,2.7,True,2022-07-01
+CUS-0194,Female,33,1,49.77,45.82,One year,Electronic check,DSL,0,3.4,False,2026-09-08
+CUS-0195,Female,21,16,69.21,994.32,Two year,Electronic check,No internet,1,6.7,False,2025-06-15
+CUS-0196,Male,32,29,115.95,3340.54,One year,Electronic check,DSL,8,9.2,False,2024-05-21
+CUS-0197,Male,61,11,74.92,831.09,One year,Credit card,No internet,1,1.6,False,2025-11-12
+CUS-0198,Female,27,22,56.17,1243.28,Month-to-month,Bank transfer,No internet,7,1.8,False,2024-12-17
+CUS-0199,Female,47,17,73.76,1237.67,Month-to-month,Mailed check,No internet,4,7.5,True,2025-05-16
+CUS-0200,Male,18,28,79.94,1932.98,One year,Credit card,No internet,0,9.4,False,2024-06-20
+CUS-0201,Female,48,5,52.27,236.26,Month-to-month,Mailed check,DSL,6,5.0,True,2026-05-11
+CUS-0202,Male,61,70,37.63,2918.81,Month-to-month,Bank transfer,No internet,6,5.8,False,2021-01-07
+CUS-0203,Male,66,3,117.96,349.95,Two year,Mailed check,No internet,6,8.4,False,2026-07-10
+CUS-0204,Male,27,36,42.91,1718.64,Month-to-month,Credit card,No internet,6,6.5,True,2023-10-24
+CUS-0205,Male,22,13,81.42,1041.45,Two year,Credit card,Fiber optic,0,4.6,False,2025-09-13
+CUS-0206,Male,66,8,38.31,351.85,Month-to-month,Electronic check,No internet,5,3.1,False,2026-02-10
+CUS-0207,Male,51,29,64.29,1738.65,Two year,Bank transfer,No internet,6,6.0,False,2024-05-21
+CUS-0208,Female,59,49,99.65,4617.32,One year,Mailed check,Fiber optic,4,4.4,True,2022-09-29
+CUS-0209,Male,32,39,106.47,3709.3,One year,Credit card,No internet,6,9.7,False,2023-07-26
+CUS-0210,Male,34,27,56.37,1329.79,One year,Electronic check,Fiber optic,8,7.5,True,2024-07-20
+CUS-0211,Female,42,6,107.99,587.32,Two year,Bank transfer,DSL,3,8.8,False,2026-04-11
+CUS-0212,Male,18,28,114.03,3635.44,Month-to-month,Mailed check,Fiber optic,3,4.6,True,2024-06-20
+CUS-0213,Female,67,37,61.16,2285.76,One year,Electronic check,DSL,5,5.6,False,2023-09-24
+CUS-0214,Male,69,61,97.35,5618.09,Month-to-month,Electronic check,DSL,6,1.4,False,2021-10-04
+CUS-0215,Male,19,34,77.56,2703.52,Two year,Mailed check,DSL,2,2.8,False,2023-12-23
+CUS-0216,Female,71,32,72.43,2425.26,Two year,Electronic check,DSL,7,9.7,False,2024-02-21
+CUS-0217,Male,64,46,41.08,2014.58,One year,Bank transfer,No internet,0,5.7,False,2022-12-28
+CUS-0218,Female,60,7,97.61,665.31,Two year,Bank transfer,Fiber optic,2,1.1,True,2026-03-12
+CUS-0219,Female,57,62,87.63,4643.74,Two year,Mailed check,Fiber optic,0,5.8,False,2021-09-04
+CUS-0220,Male,36,3,72.71,231.08,One year,Bank transfer,Fiber optic,1,5.7,True,2026-07-10
+CUS-0221,Male,51,33,102.45,3144.86,One year,Credit card,DSL,6,5.1,False,2024-01-22
+CUS-0222,Female,32,39,89.98,3875.44,Two year,Credit card,Fiber optic,6,4.4,True,2023-07-26
+CUS-0223,Male,18,22,32.86,797.81,Two year,Electronic check,No internet,1,9.1,False,2024-12-17
+CUS-0224,Female,75,61,50.75,3489.68,Two year,Electronic check,No internet,0,2.6,True,2021-10-04
+CUS-0225,Female,31,19,96.46,1949.69,One year,Credit card,DSL,2,6.1,False,2025-03-17
+CUS-0226,Female,52,43,61.47,2833.32,Two year,Credit card,No internet,5,1.5,True,2023-03-28
+CUS-0227,Female,22,44,82.49,3753.54,Two year,Mailed check,DSL,0,6.7,False,2023-02-26
+CUS-0228,Male,40,71,114.41,7957.03,Two year,Mailed check,Fiber optic,4,8.2,True,2020-12-08
+CUS-0229,Male,27,49,92.61,4720.18,Two year,Mailed check,DSL,5,2.0,False,2022-09-29
+CUS-0230,Female,46,47,97.33,4028.63,Month-to-month,Bank transfer,DSL,7,6.0,True,2022-11-28
+CUS-0231,Male,23,46,77.65,3675.76,One year,Mailed check,Fiber optic,4,4.7,False,2022-12-28
+CUS-0232,Female,53,32,79.34,2287.21,One year,Bank transfer,Fiber optic,4,3.7,True,2024-02-21
+CUS-0233,Female,28,56,51.22,2696.01,Month-to-month,Electronic check,DSL,3,7.5,False,2022-03-03
+CUS-0234,Female,30,59,35.16,1952.87,One year,Electronic check,No internet,6,8.2,False,2021-12-03
+CUS-0235,Female,45,18,53.54,993.56,Two year,Bank transfer,DSL,5,2.6,False,2025-04-16
+CUS-0236,Male,36,63,116.94,7990.43,One year,Mailed check,DSL,6,4.3,False,2021-08-05
+CUS-0237,Female,52,24,89.76,2186.62,Two year,Mailed check,No internet,3,4.9,False,2024-10-18
+CUS-0238,Female,22,53,88.93,4203.09,One year,Bank transfer,DSL,2,7.4,True,2022-06-01
+CUS-0239,Female,56,62,80.31,5030.56,Two year,Mailed check,No internet,0,8.1,False,2021-09-04
+CUS-0240,Male,69,69,81.41,6315.63,Month-to-month,Bank transfer,No internet,5,2.5,True,2021-02-06
+CUS-0241,Male,59,52,116.85,5769.22,One year,Credit card,Fiber optic,1,3.3,False,2022-07-01
+CUS-0242,Female,43,60,98.37,6059.06,Two year,Bank transfer,DSL,0,5.3,False,2021-11-03
+CUS-0243,Female,23,15,103.98,1667.39,One year,Electronic check,DSL,7,8.1,False,2025-07-15
+CUS-0244,Female,24,57,93.59,5258.53,Month-to-month,Electronic check,Fiber optic,1,1.2,True,2022-02-01
+CUS-0245,Female,61,22,113.34,2673.38,Two year,Bank transfer,No internet,2,4.0,False,2024-12-17
+CUS-0246,Male,32,52,84.83,3996.14,Two year,Mailed check,DSL,0,7.6,False,2022-07-01
+CUS-0247,Male,45,50,25.42,1162.25,One year,Credit card,No internet,1,8.2,False,2022-08-30
+CUS-0248,Male,30,59,35.83,2222.23,One year,Electronic check,No internet,6,6.5,False,2021-12-03
+CUS-0249,Female,72,59,83.65,5399.87,Two year,Electronic check,No internet,1,7.0,True,2021-12-03
+CUS-0250,Female,37,15,42.39,672.75,Two year,Mailed check,DSL,2,6.2,False,2025-07-15
+CUS-0251,Female,58,69,90.88,6543.99,Month-to-month,Bank transfer,DSL,4,2.3,False,2021-02-06
+CUS-0252,Female,57,7,107.22,852.28,One year,Bank transfer,Fiber optic,6,9.7,True,2026-03-12
+CUS-0253,Male,49,54,92.46,4908.74,Month-to-month,Credit card,No internet,0,8.2,True,2022-05-02
+CUS-0254,Male,35,29,76.07,1986.45,One year,Mailed check,No internet,8,2.0,True,2024-05-21
+CUS-0255,Male,52,47,76.49,3871.98,Two year,Mailed check,No internet,3,9.9,False,2022-11-28
+CUS-0256,Male,59,32,53.28,1960.35,One year,Electronic check,DSL,1,5.0,False,2024-02-21
+CUS-0257,Male,33,27,102.02,2827.2,One year,Mailed check,Fiber optic,2,8.1,False,2024-07-20
+CUS-0258,Female,54,45,75.57,3499.46,Month-to-month,Electronic check,No internet,4,3.6,False,2023-01-27
+CUS-0259,Male,50,13,37.88,529.39,One year,Credit card,DSL,2,7.3,False,2025-09-13
+CUS-0260,Female,63,42,103.71,4697.5,Two year,Mailed check,DSL,2,6.2,False,2023-04-27
+CUS-0261,Female,42,58,32.17,2030.76,Month-to-month,Mailed check,No internet,4,7.3,False,2022-01-02
+CUS-0262,Female,49,42,80.29,3745.39,Two year,Credit card,No internet,7,6.7,False,2023-04-27
+CUS-0263,Female,68,69,62.78,4940.17,Month-to-month,Mailed check,DSL,5,8.5,False,2021-02-06
+CUS-0264,Male,26,63,99.89,7037.2,Month-to-month,Credit card,Fiber optic,7,1.1,True,2021-08-05
+CUS-0265,Female,18,55,44.22,2569.7,Month-to-month,Electronic check,Fiber optic,4,1.8,True,2022-04-02
+CUS-0266,Male,41,22,29.92,683.04,Two year,Bank transfer,DSL,1,7.3,False,2024-12-17
+CUS-0267,Female,22,17,81.4,1391.87,One year,Credit card,Fiber optic,5,8.4,False,2025-05-16
+CUS-0268,Male,48,10,46.75,409.9,Month-to-month,Credit card,DSL,5,8.9,True,2025-12-12
+CUS-0269,Male,70,18,85.95,1629.31,Month-to-month,Credit card,No internet,2,5.0,False,2025-04-16
+CUS-0270,Female,27,53,83.53,4350.57,Month-to-month,Credit card,Fiber optic,2,7.8,True,2022-06-01
+CUS-0271,Female,45,41,100.15,3795.46,Two year,Credit card,Fiber optic,8,6.4,False,2023-05-27
+CUS-0272,Female,62,4,105.55,442.26,One year,Bank transfer,No internet,8,2.7,True,2026-06-10
+CUS-0273,Female,21,31,72.01,1972.97,One year,Credit card,No internet,0,9.9,False,2024-03-22
+CUS-0274,Male,73,54,59.71,3401.3,One year,Credit card,Fiber optic,1,1.1,True,2022-05-02
+CUS-0275,Male,21,51,73.13,3873.49,Two year,Mailed check,DSL,6,1.7,True,2022-07-31
+CUS-0276,Female,37,11,73.57,737.21,Month-to-month,Electronic check,DSL,1,3.8,False,2025-11-12
+CUS-0277,Male,72,31,30.5,828.13,One year,Credit card,DSL,0,3.8,True,2024-03-22
+CUS-0278,Female,63,18,91.64,1483.17,One year,Electronic check,Fiber optic,5,2.1,False,2025-04-16
+CUS-0279,Female,25,4,56.83,222.5,Two year,Credit card,DSL,1,5.5,True,2026-06-10
+CUS-0280,Male,72,22,59.93,1221.6,Month-to-month,Credit card,Fiber optic,8,1.0,True,2024-12-17
+CUS-0281,Female,48,47,61.38,2582.02,Month-to-month,Mailed check,Fiber optic,5,3.2,True,2022-11-28
+CUS-0282,Female,22,48,36.34,1835.02,Month-to-month,Bank transfer,Fiber optic,8,9.8,True,2022-10-29
+CUS-0283,Female,47,37,98.49,3437.18,Month-to-month,Mailed check,Fiber optic,5,2.8,False,2023-09-24
+CUS-0284,Male,33,60,59.99,4108.92,Month-to-month,Bank transfer,Fiber optic,0,9.4,True,2021-11-03
+CUS-0285,Male,40,2,115.34,196.18,Two year,Mailed check,No internet,4,1.9,True,2026-08-09
+CUS-0286,Male,21,19,92.61,1544.76,Month-to-month,Mailed check,No internet,5,5.1,False,2025-03-17
+CUS-0287,Female,50,18,85.54,1490.92,Two year,Credit card,DSL,2,3.1,False,2025-04-16
+CUS-0288,Male,69,51,91.57,4999.8,One year,Mailed check,DSL,3,1.7,True,2022-07-31
+CUS-0289,Male,67,14,39.76,500.59,One year,Electronic check,DSL,1,5.8,False,2025-08-14
+CUS-0290,Female,47,34,105.99,3160.86,Two year,Electronic check,No internet,0,2.9,True,2023-12-23
+CUS-0291,Female,63,32,117.0,3627.46,Month-to-month,Electronic check,DSL,2,1.3,False,2024-02-21
+CUS-0292,Male,53,71,48.74,3421.13,Month-to-month,Credit card,Fiber optic,0,8.5,True,2020-12-08
+CUS-0293,Male,70,52,60.36,3261.41,Two year,Credit card,No internet,4,9.3,True,2022-07-01
+CUS-0294,Female,22,26,110.74,2830.38,Month-to-month,Credit card,DSL,1,1.4,True,2024-08-19
+CUS-0295,Male,54,56,103.06,5589.56,Month-to-month,Mailed check,No internet,6,2.6,False,2022-03-03
+CUS-0296,Female,35,36,67.37,2169.67,Two year,Bank transfer,No internet,4,5.5,True,2023-10-24
+CUS-0297,Female,35,50,38.04,1730.51,Two year,Bank transfer,No internet,8,8.2,False,2022-08-30
+CUS-0298,Female,40,62,76.73,4735.39,Two year,Electronic check,DSL,4,2.6,False,2021-09-04
+CUS-0299,Male,19,36,30.57,1262.8,Two year,Electronic check,No internet,3,9.8,False,2023-10-24
+CUS-0300,Male,33,35,75.7,2880.99,Two year,Credit card,Fiber optic,6,4.2,True,2023-11-23
+CUS-0301,Male,55,41,101.59,4412.14,Two year,Credit card,No internet,5,9.5,False,2023-05-27
+CUS-0302,Male,30,64,76.5,4419.46,Month-to-month,Credit card,Fiber optic,3,6.4,False,2021-07-06
+CUS-0303,Female,18,43,112.2,4392.51,Month-to-month,Electronic check,No internet,2,9.3,True,2023-03-28
+CUS-0304,Female,27,19,98.56,2067.29,One year,Credit card,DSL,6,6.3,False,2025-03-17
+CUS-0305,Female,26,21,94.57,1948.36,Two year,Mailed check,No internet,5,2.6,True,2025-01-16
+CUS-0306,Female,55,23,60.95,1500.26,One year,Bank transfer,Fiber optic,0,9.5,False,2024-11-17
+CUS-0307,Male,67,5,42.3,199.97,Two year,Bank transfer,No internet,1,9.4,False,2026-05-11
+CUS-0308,Female,22,31,57.95,1699.18,Two year,Credit card,No internet,5,5.0,True,2024-03-22
+CUS-0309,Female,62,9,58.3,569.88,Two year,Credit card,Fiber optic,6,4.9,False,2026-01-11
+CUS-0310,Male,74,53,71.84,3668.98,Two year,Mailed check,Fiber optic,7,8.1,True,2022-06-01
+CUS-0311,Male,22,5,53.02,250.68,Month-to-month,Credit card,DSL,2,9.0,False,2026-05-11
+CUS-0312,Female,53,12,57.11,785.09,One year,Credit card,DSL,2,6.5,False,2025-10-13
+CUS-0313,Male,24,43,44.53,1736.71,Two year,Electronic check,No internet,4,3.7,True,2023-03-28
+CUS-0314,Female,54,71,104.79,6666.89,One year,Credit card,DSL,1,3.7,True,2020-12-08
+CUS-0315,Female,19,27,41.23,1043.68,Month-to-month,Mailed check,Fiber optic,4,8.1,False,2024-07-20
+CUS-0316,Male,60,34,33.66,1159.59,Month-to-month,Electronic check,DSL,5,2.7,True,2023-12-23
+CUS-0317,Female,47,34,46.49,1470.91,Month-to-month,Bank transfer,No internet,1,1.8,False,2023-12-23
+CUS-0318,Male,44,30,77.59,2565.68,Two year,Mailed check,No internet,7,6.2,False,2024-04-21
+CUS-0319,Male,23,51,110.76,6011.93,Two year,Bank transfer,Fiber optic,7,2.6,False,2022-07-31
+CUS-0320,Female,69,25,36.99,903.49,Two year,Mailed check,Fiber optic,2,8.5,False,2024-09-18
+CUS-0321,Male,64,9,33.27,304.49,Two year,Electronic check,DSL,8,5.1,False,2026-01-11
+CUS-0322,Male,57,67,99.26,5877.35,Month-to-month,Bank transfer,No internet,1,9.3,False,2021-04-07
+CUS-0323,Female,73,69,108.61,8343.68,One year,Mailed check,No internet,7,6.1,True,2021-02-06
+CUS-0324,Female,35,52,38.67,2076.39,Two year,Mailed check,Fiber optic,6,9.0,False,2022-07-01
+CUS-0325,Female,21,61,112.48,7678.52,Month-to-month,Electronic check,DSL,4,3.5,False,2021-10-04
+CUS-0326,Male,61,13,117.39,1401.52,One year,Mailed check,DSL,4,7.6,True,2025-09-13
+CUS-0327,Female,31,53,95.39,5449.24,One year,Credit card,No internet,2,1.6,True,2022-06-01
+CUS-0328,Male,72,68,108.54,6337.71,Month-to-month,Bank transfer,Fiber optic,3,1.3,False,2021-03-08
+CUS-0329,Male,63,26,51.03,1455.55,Two year,Mailed check,No internet,1,7.1,False,2024-08-19
+CUS-0330,Female,56,58,41.87,2698.37,Two year,Electronic check,DSL,2,8.5,False,2022-01-02
+CUS-0331,Female,62,12,52.08,603.69,Month-to-month,Bank transfer,Fiber optic,3,7.1,False,2025-10-13
+CUS-0332,Male,50,3,107.14,366.46,Two year,Credit card,DSL,2,6.8,True,2026-07-10
+CUS-0333,Male,56,40,92.71,3941.33,One year,Mailed check,DSL,5,5.1,False,2023-06-26
+CUS-0334,Female,61,67,103.31,6708.2,Month-to-month,Credit card,No internet,5,6.1,True,2021-04-07
+CUS-0335,Female,24,62,31.06,2207.85,Two year,Electronic check,DSL,4,6.9,True,2021-09-04
+CUS-0336,Male,51,31,110.47,3738.36,Two year,Mailed check,No internet,5,7.1,False,2024-03-22
+CUS-0337,Male,36,34,111.16,3671.27,Two year,Credit card,No internet,3,4.1,False,2023-12-23
+CUS-0338,Male,58,61,111.12,7127.81,Two year,Electronic check,Fiber optic,8,2.6,True,2021-10-04
+CUS-0339,Male,65,34,93.89,3248.79,Month-to-month,Electronic check,No internet,1,3.0,False,2023-12-23
+CUS-0340,Male,37,54,99.87,5120.07,One year,Electronic check,DSL,1,5.2,False,2022-05-02
+CUS-0341,Male,30,65,36.38,2492.89,Two year,Electronic check,DSL,0,8.8,False,2021-06-06
+CUS-0342,Female,30,44,63.87,2868.79,One year,Bank transfer,DSL,2,8.0,False,2023-02-26
+CUS-0343,Male,29,41,85.28,2976.95,One year,Bank transfer,Fiber optic,2,5.4,True,2023-05-27
+CUS-0344,Female,45,55,63.32,3968.77,One year,Credit card,Fiber optic,8,2.8,False,2022-04-02
+CUS-0345,Female,75,42,96.9,4107.69,Month-to-month,Credit card,No internet,3,3.0,True,2023-04-27
+CUS-0346,Female,24,50,72.82,3429.22,Month-to-month,Credit card,DSL,4,5.1,False,2022-08-30
+CUS-0347,Male,61,18,57.56,1160.84,One year,Bank transfer,Fiber optic,6,1.2,False,2025-04-16
+CUS-0348,Female,26,28,94.74,2724.1,Month-to-month,Credit card,DSL,0,4.4,False,2024-06-20
+CUS-0349,Female,57,7,81.42,492.65,Month-to-month,Credit card,Fiber optic,1,4.8,True,2026-03-12
+CUS-0350,Female,34,61,91.68,5098.38,Two year,Credit card,DSL,6,7.0,False,2021-10-04
+CUS-0351,Female,62,18,64.79,1305.68,Two year,Credit card,DSL,1,8.1,False,2025-04-16
+CUS-0352,Female,30,34,103.99,4037.5,One year,Mailed check,DSL,2,1.4,False,2023-12-23
+CUS-0353,Male,62,62,56.41,2975.68,Two year,Credit card,Fiber optic,7,2.3,False,2021-09-04
+CUS-0354,Male,22,13,110.95,1504.81,One year,Electronic check,DSL,7,1.5,False,2025-09-13
+CUS-0355,Male,72,38,59.22,2369.7,One year,Credit card,Fiber optic,0,1.1,False,2023-08-25
+CUS-0356,Female,28,43,58.97,2488.33,Two year,Electronic check,No internet,1,4.4,True,2023-03-28
+CUS-0357,Male,43,52,116.42,5639.45,One year,Mailed check,DSL,2,2.0,False,2022-07-01
+CUS-0358,Male,72,21,34.85,822.14,One year,Mailed check,Fiber optic,6,8.0,False,2025-01-16
+CUS-0359,Female,74,17,70.89,1200.84,One year,Mailed check,Fiber optic,1,3.4,True,2025-05-16
+CUS-0360,Male,73,68,97.92,6811.67,Two year,Bank transfer,No internet,5,5.7,False,2021-03-08
+CUS-0361,Male,64,32,70.78,2376.2,Two year,Mailed check,Fiber optic,8,9.0,True,2024-02-21
+CUS-0362,Female,28,65,105.64,7591.45,Month-to-month,Credit card,DSL,5,3.2,True,2021-06-06
+CUS-0363,Female,32,71,86.12,5937.1,Month-to-month,Credit card,DSL,7,8.2,True,2020-12-08
+CUS-0364,Male,49,58,55.03,3651.99,Two year,Credit card,Fiber optic,6,4.7,False,2022-01-02
+CUS-0365,Male,68,39,109.56,4352.74,Two year,Mailed check,DSL,5,8.4,False,2023-07-26
+CUS-0366,Male,39,72,97.9,7260.16,Two year,Electronic check,No internet,7,2.0,True,2020-11-08
+CUS-0367,Female,40,38,77.03,2816.4,Month-to-month,Credit card,Fiber optic,7,2.3,True,2023-08-25
+CUS-0368,Male,57,26,42.82,1257.01,One year,Bank transfer,DSL,3,7.5,False,2024-08-19
+CUS-0369,Male,20,16,98.35,1550.23,Two year,Bank transfer,DSL,0,5.8,False,2025-06-15
+CUS-0370,Female,45,62,112.82,7584.68,Month-to-month,Bank transfer,No internet,2,1.9,True,2021-09-04
+CUS-0371,Female,42,54,118.05,7170.09,Month-to-month,Electronic check,DSL,5,9.7,False,2022-05-02
+CUS-0372,Male,26,53,82.24,4864.03,Two year,Electronic check,No internet,8,8.7,True,2022-06-01
+CUS-0373,Female,57,38,90.23,3861.99,Month-to-month,Bank transfer,No internet,8,7.2,False,2023-08-25
+CUS-0374,Female,66,46,78.42,3696.93,Two year,Mailed check,No internet,8,3.6,False,2022-12-28
+CUS-0375,Male,51,14,27.4,342.78,Two year,Credit card,Fiber optic,4,7.8,False,2025-08-14
+CUS-0376,Female,61,33,38.91,1115.32,One year,Bank transfer,No internet,0,4.2,True,2024-01-22
+CUS-0377,Female,73,72,107.16,8276.62,Two year,Mailed check,Fiber optic,8,8.1,False,2020-11-08
+CUS-0378,Female,21,49,61.82,3444.21,Two year,Electronic check,No internet,0,1.1,True,2022-09-29
+CUS-0379,Male,73,57,103.85,6650.18,Two year,Electronic check,No internet,8,7.6,False,2022-02-01
+CUS-0380,Male,30,38,67.64,2943.11,Month-to-month,Bank transfer,Fiber optic,8,2.1,True,2023-08-25
+CUS-0381,Male,53,34,37.36,1302.24,One year,Credit card,DSL,7,7.4,True,2023-12-23
+CUS-0382,Female,38,7,98.5,715.43,Two year,Electronic check,DSL,8,4.2,True,2026-03-12
+CUS-0383,Male,29,67,31.48,2112.41,One year,Mailed check,Fiber optic,5,3.0,False,2021-04-07
+CUS-0384,Female,39,47,52.89,2821.65,Two year,Mailed check,No internet,0,2.0,False,2022-11-28
+CUS-0385,Female,75,32,116.1,3918.66,One year,Mailed check,Fiber optic,6,3.3,True,2024-02-21
+CUS-0386,Male,51,48,73.86,3554.57,One year,Credit card,DSL,3,3.9,False,2022-10-29
+CUS-0387,Male,28,69,75.65,5418.62,Month-to-month,Bank transfer,No internet,6,8.5,False,2021-02-06
+CUS-0388,Male,62,56,86.42,5477.98,Two year,Bank transfer,Fiber optic,7,7.5,True,2022-03-03
+CUS-0389,Female,21,23,100.45,2350.61,Two year,Bank transfer,DSL,6,4.5,True,2024-11-17
+CUS-0390,Male,19,50,88.96,4494.48,Two year,Credit card,No internet,0,7.3,False,2022-08-30
+CUS-0391,Male,50,14,52.53,776.43,Two year,Credit card,DSL,7,4.4,False,2025-08-14
+CUS-0392,Female,52,29,37.96,1064.84,Two year,Electronic check,No internet,2,3.7,False,2024-05-21
+CUS-0393,Male,18,71,108.1,6849.35,Month-to-month,Credit card,No internet,6,5.8,True,2020-12-08
+CUS-0394,Female,65,45,45.12,2277.48,Two year,Bank transfer,Fiber optic,2,3.0,True,2023-01-27
+CUS-0395,Male,29,7,105.88,837.3,Two year,Mailed check,No internet,8,1.7,True,2026-03-12
+CUS-0396,Male,30,63,115.4,6958.61,Two year,Bank transfer,Fiber optic,4,6.6,True,2021-08-05
+CUS-0397,Female,46,43,83.55,3383.21,Two year,Bank transfer,No internet,5,8.3,True,2023-03-28
+CUS-0398,Female,38,32,99.64,3391.46,Two year,Mailed check,DSL,5,2.2,False,2024-02-21
+CUS-0399,Male,47,58,59.08,3226.67,Two year,Credit card,Fiber optic,1,8.6,False,2022-01-02
+CUS-0400,Female,30,34,94.69,3341.75,Two year,Credit card,Fiber optic,8,6.7,False,2023-12-23
+CUS-0401,Male,31,5,77.4,392.05,Two year,Mailed check,No internet,2,4.3,False,2026-05-11
+CUS-0402,Male,55,38,37.72,1433.84,Month-to-month,Mailed check,DSL,8,1.1,False,2023-08-25
+CUS-0403,Female,69,22,96.93,1902.39,Month-to-month,Bank transfer,No internet,2,7.6,False,2024-12-17
+CUS-0404,Female,20,29,97.34,2595.69,One year,Electronic check,Fiber optic,0,7.0,False,2024-05-21
+CUS-0405,Male,47,6,28.79,180.44,Month-to-month,Electronic check,No internet,4,6.2,True,2026-04-11
+CUS-0406,Female,42,47,80.83,4252.87,Month-to-month,Electronic check,DSL,3,5.6,False,2022-11-28
+CUS-0407,Female,40,63,100.3,7052.85,Month-to-month,Bank transfer,DSL,2,3.1,True,2021-08-05
+CUS-0408,Female,29,21,59.41,1328.94,Month-to-month,Bank transfer,DSL,5,7.5,False,2025-01-16
+CUS-0409,Male,48,27,81.13,2287.28,One year,Credit card,Fiber optic,0,2.2,True,2024-07-20
+CUS-0410,Male,50,6,109.63,588.09,Month-to-month,Electronic check,Fiber optic,8,9.6,False,2026-04-11
+CUS-0411,Female,64,37,114.99,3892.89,Two year,Mailed check,DSL,2,3.0,False,2023-09-24
+CUS-0412,Female,68,24,84.21,2027.59,Month-to-month,Electronic check,DSL,1,3.1,True,2024-10-18
+CUS-0413,Male,19,26,74.66,2179.54,Two year,Mailed check,Fiber optic,1,2.6,False,2024-08-19
+CUS-0414,Female,52,65,96.48,5505.84,Two year,Bank transfer,No internet,8,8.4,False,2021-06-06
+CUS-0415,Female,41,6,91.28,536.01,One year,Mailed check,DSL,1,4.8,False,2026-04-11
+CUS-0416,Male,32,11,51.91,635.55,One year,Electronic check,Fiber optic,0,7.4,False,2025-11-12
+CUS-0417,Female,25,67,25.68,1800.33,Two year,Electronic check,DSL,5,2.0,False,2021-04-07
+CUS-0418,Female,34,34,106.22,3528.66,One year,Electronic check,No internet,6,7.8,False,2023-12-23
+CUS-0419,Female,53,62,41.98,2648.9,One year,Electronic check,DSL,5,8.0,False,2021-09-04
+CUS-0420,Female,72,16,96.04,1512.02,Two year,Bank transfer,Fiber optic,3,5.6,False,2025-06-15
+CUS-0421,Female,57,7,40.27,321.18,Month-to-month,Credit card,Fiber optic,7,9.3,True,2026-03-12
+CUS-0422,Male,34,29,60.23,1803.8,Two year,Mailed check,DSL,8,3.6,False,2024-05-21
+CUS-0423,Male,70,23,85.83,1937.95,Month-to-month,Electronic check,Fiber optic,0,8.1,False,2024-11-17
+CUS-0424,Female,61,5,59.18,309.66,Month-to-month,Credit card,DSL,6,4.2,True,2026-05-11
+CUS-0425,Female,30,67,26.46,1881.12,Month-to-month,Electronic check,No internet,8,9.2,True,2021-04-07
+CUS-0426,Female,70,36,46.5,1906.55,One year,Mailed check,No internet,0,3.3,False,2023-10-24
+CUS-0427,Female,53,10,72.8,693.05,Month-to-month,Electronic check,No internet,4,7.2,False,2025-12-12
+CUS-0428,Female,67,32,96.96,3532.05,One year,Mailed check,No internet,0,5.3,True,2024-02-21
+CUS-0429,Female,58,29,89.31,2380.15,One year,Mailed check,DSL,8,5.8,True,2024-05-21
+CUS-0430,Female,23,52,89.0,5073.78,Month-to-month,Bank transfer,DSL,5,4.2,True,2022-07-01
+CUS-0431,Male,65,25,72.4,1646.92,Two year,Bank transfer,DSL,3,3.1,False,2024-09-18
+CUS-0432,Male,40,20,99.0,1754.21,Month-to-month,Mailed check,No internet,0,7.9,False,2025-02-15
+CUS-0433,Female,41,41,71.77,3371.03,Two year,Electronic check,DSL,2,9.9,False,2023-05-27
+CUS-0434,Male,66,17,30.14,558.38,One year,Credit card,No internet,5,4.5,False,2025-05-16
+CUS-0435,Female,25,67,68.71,4864.88,Month-to-month,Bank transfer,DSL,1,3.9,True,2021-04-07
+CUS-0436,Female,34,31,50.59,1784.02,One year,Electronic check,Fiber optic,7,4.8,False,2024-03-22
+CUS-0437,Female,41,47,106.16,4659.66,Month-to-month,Bank transfer,No internet,3,8.3,False,2022-11-28
+CUS-0438,Female,53,56,106.35,5412.56,Two year,Bank transfer,DSL,0,2.6,True,2022-03-03
+CUS-0439,Male,75,67,75.73,4793.41,One year,Electronic check,DSL,8,8.7,False,2021-04-07
+CUS-0440,Female,62,21,30.7,705.4,One year,Credit card,DSL,5,3.3,False,2025-01-16
+CUS-0441,Female,69,33,57.69,1853.37,One year,Bank transfer,No internet,8,2.6,False,2024-01-22
+CUS-0442,Male,61,66,71.31,5040.42,Month-to-month,Mailed check,No internet,4,5.2,False,2021-05-07
+CUS-0443,Female,58,44,65.07,2959.55,One year,Credit card,Fiber optic,2,4.1,False,2023-02-26
+CUS-0444,Female,36,35,82.51,2797.28,One year,Electronic check,No internet,8,9.7,True,2023-11-23
+CUS-0445,Male,72,3,36.88,101.83,One year,Credit card,Fiber optic,2,4.6,True,2026-07-10
+CUS-0446,Male,74,61,77.1,4034.83,One year,Credit card,Fiber optic,4,6.6,False,2021-10-04
+CUS-0447,Male,74,50,54.39,2513.41,One year,Mailed check,No internet,2,2.2,True,2022-08-30
+CUS-0448,Male,60,46,106.74,4652.56,One year,Mailed check,No internet,4,5.9,False,2022-12-28
+CUS-0449,Female,62,70,41.82,3013.1,Two year,Mailed check,No internet,8,3.8,False,2021-01-07
+CUS-0450,Male,32,12,66.98,771.4,One year,Bank transfer,DSL,0,1.0,False,2025-10-13
+CUS-0451,Male,48,69,25.79,2004.84,One year,Electronic check,Fiber optic,6,8.2,False,2021-02-06
+CUS-0452,Female,53,48,42.91,2295.82,One year,Mailed check,Fiber optic,2,7.4,False,2022-10-29
+CUS-0453,Female,32,34,32.52,1147.25,Two year,Electronic check,DSL,8,8.3,True,2023-12-23
+CUS-0454,Male,22,24,37.98,804.97,One year,Mailed check,DSL,7,2.7,True,2024-10-18
+CUS-0455,Male,52,3,42.66,112.71,One year,Bank transfer,No internet,7,7.5,True,2026-07-10
+CUS-0456,Male,18,64,45.63,2850.45,One year,Electronic check,DSL,0,4.0,True,2021-07-06
+CUS-0457,Male,67,51,31.78,1606.26,Month-to-month,Electronic check,DSL,0,2.1,True,2022-07-31
+CUS-0458,Female,46,32,95.07,2616.49,One year,Credit card,No internet,3,5.3,False,2024-02-21
+CUS-0459,Male,28,6,95.75,583.05,Month-to-month,Electronic check,DSL,4,2.8,True,2026-04-11
+CUS-0460,Male,31,15,47.42,697.25,Month-to-month,Bank transfer,DSL,1,4.6,True,2025-07-15
+CUS-0461,Female,20,61,90.4,4943.65,Month-to-month,Bank transfer,Fiber optic,7,1.8,False,2021-10-04
+CUS-0462,Female,66,8,30.68,256.09,Two year,Credit card,Fiber optic,7,3.1,False,2026-02-10
+CUS-0463,Female,46,25,27.03,650.97,Two year,Bank transfer,DSL,0,5.4,False,2024-09-18
+CUS-0464,Male,52,63,43.03,2456.03,One year,Electronic check,No internet,7,3.5,True,2021-08-05
+CUS-0465,Male,27,58,53.09,2860.61,One year,Mailed check,Fiber optic,8,4.4,False,2022-01-02
+CUS-0466,Male,57,47,98.72,4276.24,Two year,Credit card,No internet,8,8.4,False,2022-11-28
+CUS-0467,Male,49,71,39.64,2631.33,One year,Electronic check,Fiber optic,1,5.7,True,2020-12-08
+CUS-0468,Female,26,23,107.98,2261.57,One year,Bank transfer,Fiber optic,0,6.1,False,2024-11-17
+CUS-0469,Male,51,33,29.66,896.77,Two year,Credit card,Fiber optic,3,6.9,False,2024-01-22
+CUS-0470,Female,58,8,59.29,508.97,One year,Electronic check,No internet,0,8.4,False,2026-02-10
+CUS-0471,Male,64,10,104.27,910.67,Month-to-month,Credit card,Fiber optic,3,5.8,True,2025-12-12
+CUS-0472,Female,60,32,79.15,2872.83,Two year,Mailed check,No internet,1,7.9,False,2024-02-21
+CUS-0473,Female,62,55,108.87,5389.32,Month-to-month,Mailed check,No internet,5,6.9,False,2022-04-02
+CUS-0474,Female,75,41,77.26,3639.82,One year,Mailed check,No internet,6,8.4,False,2023-05-27
+CUS-0475,Female,54,70,45.32,3425.28,Two year,Electronic check,DSL,7,5.0,True,2021-01-07
+CUS-0476,Female,20,37,81.6,3035.15,One year,Credit card,DSL,3,2.9,True,2023-09-24
+CUS-0477,Male,70,36,112.32,4057.19,Two year,Bank transfer,Fiber optic,0,5.1,True,2023-10-24
+CUS-0478,Female,41,32,47.13,1648.9,Month-to-month,Mailed check,No internet,3,7.6,False,2024-02-21
+CUS-0479,Female,29,63,103.44,6887.38,Two year,Credit card,No internet,4,1.3,True,2021-08-05
+CUS-0480,Female,21,43,58.05,2733.64,One year,Credit card,Fiber optic,0,6.7,True,2023-03-28
+CUS-0481,Female,51,6,55.34,338.51,One year,Bank transfer,Fiber optic,0,7.1,False,2026-04-11
+CUS-0482,Male,66,65,33.56,2136.86,One year,Bank transfer,Fiber optic,5,1.7,False,2021-06-06
+CUS-0483,Female,34,11,62.86,677.87,Two year,Bank transfer,Fiber optic,7,6.0,False,2025-11-12
+CUS-0484,Female,54,26,78.31,2339.68,Two year,Bank transfer,Fiber optic,1,3.4,False,2024-08-19
+CUS-0485,Male,54,12,35.69,417.18,One year,Electronic check,Fiber optic,5,4.1,False,2025-10-13
+CUS-0486,Male,28,45,83.54,4312.1,One year,Bank transfer,DSL,0,9.3,False,2023-01-27
+CUS-0487,Female,41,20,96.98,2144.87,Month-to-month,Credit card,Fiber optic,2,8.8,True,2025-02-15
+CUS-0488,Female,62,15,53.99,802.85,One year,Bank transfer,No internet,8,2.9,False,2025-07-15
+CUS-0489,Male,57,19,91.03,1816.88,One year,Credit card,DSL,2,1.5,False,2025-03-17
+CUS-0490,Female,57,35,30.04,1100.21,Month-to-month,Credit card,DSL,4,7.0,False,2023-11-23
+CUS-0491,Female,19,38,107.4,4264.13,Month-to-month,Mailed check,No internet,1,9.1,False,2023-08-25
+CUS-0492,Female,52,12,42.71,512.62,One year,Credit card,Fiber optic,3,9.3,False,2025-10-13
+CUS-0493,Male,43,21,26.75,592.81,One year,Electronic check,Fiber optic,8,3.5,False,2025-01-16
+CUS-0494,Female,74,50,109.59,5997.08,Month-to-month,Electronic check,Fiber optic,2,4.1,True,2022-08-30
+CUS-0495,Female,23,49,74.47,3843.88,Two year,Bank transfer,DSL,3,6.2,False,2022-09-29
+CUS-0496,Male,56,43,67.67,2588.37,Two year,Bank transfer,No internet,8,7.2,False,2023-03-28
+CUS-0497,Male,37,68,111.41,7416.93,Month-to-month,Bank transfer,DSL,1,6.0,True,2021-03-08
+CUS-0498,Female,71,19,94.07,1929.66,One year,Mailed check,DSL,7,7.7,True,2025-03-17
+CUS-0499,Male,30,14,37.5,450.38,Two year,Electronic check,No internet,3,6.4,False,2025-08-14
+CUS-0500,Female,40,11,90.37,987.09,Two year,Mailed check,No internet,5,2.7,True,2025-11-12
+CUS-0501,Male,26,21,43.36,782.78,Month-to-month,Electronic check,DSL,3,7.7,False,2025-01-16
+CUS-0502,Male,22,23,113.07,2979.49,Two year,Mailed check,No internet,5,8.8,False,2024-11-17
+CUS-0503,Male,67,6,82.75,544.81,Two year,Electronic check,DSL,8,5.7,False,2026-04-11
+CUS-0504,Male,46,59,103.57,5271.79,Month-to-month,Mailed check,No internet,0,6.0,True,2021-12-03
+CUS-0505,Male,46,51,109.02,6016.51,One year,Mailed check,Fiber optic,6,3.6,False,2022-07-31
+CUS-0506,Female,75,19,69.04,1369.26,Month-to-month,Credit card,Fiber optic,8,2.2,True,2025-03-17
+CUS-0507,Male,19,23,68.1,1752.67,Month-to-month,Mailed check,Fiber optic,4,3.9,False,2024-11-17
+CUS-0508,Male,25,12,35.85,423.67,One year,Credit card,No internet,6,7.5,False,2025-10-13
+CUS-0509,Male,42,6,97.98,660.59,Two year,Bank transfer,Fiber optic,2,2.6,True,2026-04-11
+CUS-0510,Female,37,58,52.43,2749.64,Month-to-month,Bank transfer,Fiber optic,4,1.1,False,2022-01-02
+CUS-0511,Male,52,1,82.76,82.6,Month-to-month,Mailed check,DSL,6,5.0,True,2026-09-08
+CUS-0512,Female,53,36,83.88,3071.81,Month-to-month,Credit card,Fiber optic,2,1.5,True,2023-10-24
+CUS-0513,Male,72,5,88.36,486.6,One year,Electronic check,Fiber optic,0,2.0,True,2026-05-11
+CUS-0514,Female,36,72,41.85,2972.83,Two year,Electronic check,Fiber optic,1,7.9,False,2020-11-08
+CUS-0515,Female,42,9,97.05,963.41,Month-to-month,Electronic check,DSL,2,2.1,True,2026-01-11
+CUS-0516,Female,44,68,44.94,2789.18,Month-to-month,Credit card,No internet,8,9.9,False,2021-03-08
+CUS-0517,Female,56,37,65.57,2679.23,One year,Electronic check,Fiber optic,7,5.7,False,2023-09-24
+CUS-0518,Male,29,30,92.32,3167.81,Month-to-month,Credit card,Fiber optic,7,6.6,False,2024-04-21
+CUS-0519,Female,31,54,64.33,3300.61,Two year,Bank transfer,Fiber optic,3,7.2,False,2022-05-02
+CUS-0520,Male,37,39,73.14,2701.78,Month-to-month,Credit card,No internet,5,4.1,False,2023-07-26
+CUS-0521,Female,30,43,104.21,5048.7,One year,Mailed check,Fiber optic,2,5.3,False,2023-03-28
+CUS-0522,Female,52,43,68.93,3243.35,Two year,Credit card,No internet,4,6.1,False,2023-03-28
+CUS-0523,Female,19,27,79.85,2047.11,One year,Credit card,Fiber optic,4,8.6,False,2024-07-20
+CUS-0524,Female,58,69,105.03,7401.39,One year,Bank transfer,No internet,1,8.8,False,2021-02-06
+CUS-0525,Female,38,5,50.79,222.47,Month-to-month,Electronic check,DSL,4,2.9,True,2026-05-11
+CUS-0526,Female,41,5,98.89,555.76,One year,Credit card,DSL,8,2.4,False,2026-05-11
+CUS-0527,Male,64,68,54.48,3512.74,Month-to-month,Bank transfer,Fiber optic,0,5.1,True,2021-03-08
+CUS-0528,Male,20,12,56.66,759.3,Month-to-month,Electronic check,Fiber optic,4,6.7,True,2025-10-13
+CUS-0529,Male,30,37,51.28,1794.42,One year,Credit card,DSL,2,2.4,True,2023-09-24
+CUS-0530,Female,57,72,73.84,4848.49,One year,Electronic check,DSL,2,9.5,False,2020-11-08
+CUS-0531,Male,28,10,54.58,610.03,Two year,Mailed check,Fiber optic,2,1.3,True,2025-12-12
+CUS-0532,Male,21,12,65.51,710.41,Two year,Mailed check,No internet,5,3.8,False,2025-10-13
+CUS-0533,Female,60,69,32.46,2523.82,One year,Bank transfer,Fiber optic,7,1.9,False,2021-02-06
+CUS-0534,Female,63,60,69.7,4743.37,Month-to-month,Electronic check,DSL,6,2.7,False,2021-11-03
+CUS-0535,Male,74,42,68.06,2455.7,One year,Credit card,DSL,7,5.2,False,2023-04-27
+CUS-0536,Female,40,17,73.26,1210.18,Two year,Credit card,DSL,8,6.8,False,2025-05-16
+CUS-0537,Female,43,53,47.66,2331.75,Month-to-month,Mailed check,DSL,1,4.1,False,2022-06-01
+CUS-0538,Female,45,44,76.73,3108.89,Two year,Credit card,No internet,7,2.0,True,2023-02-26
+CUS-0539,Male,24,57,41.74,2704.57,Month-to-month,Credit card,No internet,6,3.9,True,2022-02-01
+CUS-0540,Female,70,18,109.29,2205.21,Two year,Credit card,Fiber optic,2,5.1,False,2025-04-16
+CUS-0541,Female,54,58,43.59,2665.89,One year,Electronic check,No internet,4,9.3,False,2022-01-02
+CUS-0542,Male,40,12,80.36,996.57,Two year,Mailed check,Fiber optic,4,1.6,True,2025-10-13
+CUS-0543,Female,53,46,35.42,1522.86,Month-to-month,Bank transfer,DSL,6,6.6,False,2022-12-28
+CUS-0544,Female,45,70,45.07,2845.79,Month-to-month,Bank transfer,No internet,6,8.6,False,2021-01-07
+CUS-0545,Female,27,37,119.76,4657.19,Month-to-month,Credit card,Fiber optic,0,2.3,False,2023-09-24
+CUS-0546,Female,26,11,38.04,456.85,One year,Mailed check,No internet,2,5.1,False,2025-11-12
+CUS-0547,Male,46,50,58.75,2660.6,Two year,Credit card,No internet,7,8.6,False,2022-08-30
+CUS-0548,Male,35,53,113.02,6127.27,Month-to-month,Credit card,No internet,7,7.3,False,2022-06-01
+CUS-0549,Male,62,11,38.5,452.89,One year,Mailed check,No internet,1,5.7,False,2025-11-12
+CUS-0550,Male,58,10,89.99,910.48,Two year,Electronic check,No internet,0,9.1,False,2025-12-12
+CUS-0551,Female,50,61,79.53,4606.12,One year,Electronic check,DSL,2,1.3,False,2021-10-04
+CUS-0552,Male,54,34,30.83,1039.78,Month-to-month,Credit card,No internet,4,8.3,True,2023-12-23
+CUS-0553,Female,23,17,73.03,1372.41,One year,Electronic check,Fiber optic,4,3.5,True,2025-05-16
+CUS-0554,Male,25,23,111.46,2747.36,Two year,Mailed check,DSL,2,3.4,False,2024-11-17
+CUS-0555,Female,69,68,106.89,6925.84,Month-to-month,Bank transfer,No internet,2,8.5,False,2021-03-08
+CUS-0556,Male,33,57,93.97,4821.65,Two year,Electronic check,Fiber optic,4,7.8,True,2022-02-01
+CUS-0557,Male,47,52,70.24,3626.47,Two year,Bank transfer,DSL,6,5.3,False,2022-07-01
+CUS-0558,Female,45,2,52.44,114.23,One year,Electronic check,No internet,0,1.9,False,2026-08-09
+CUS-0559,Male,45,35,56.82,1849.74,Month-to-month,Electronic check,No internet,6,5.1,False,2023-11-23
+CUS-0560,Male,55,25,74.4,1959.17,Month-to-month,Electronic check,No internet,0,7.1,True,2024-09-18
+CUS-0561,Male,24,68,34.87,2332.71,Month-to-month,Electronic check,DSL,3,1.3,True,2021-03-08
+CUS-0562,Male,56,28,115.3,3362.14,Two year,Credit card,Fiber optic,2,4.4,False,2024-06-20
+CUS-0563,Female,62,24,49.07,1166.01,Month-to-month,Mailed check,DSL,6,7.2,True,2024-10-18
+CUS-0564,Female,67,10,51.34,446.0,One year,Electronic check,Fiber optic,4,9.6,True,2025-12-12
+CUS-0565,Female,22,63,118.05,6769.3,One year,Bank transfer,No internet,7,2.0,True,2021-08-05
+CUS-0566,Female,59,14,111.7,1664.85,Month-to-month,Credit card,Fiber optic,1,6.1,False,2025-08-14
+CUS-0567,Female,19,64,39.14,2610.42,Month-to-month,Mailed check,DSL,2,7.3,False,2021-07-06
+CUS-0568,Female,50,63,70.42,4308.57,Two year,Credit card,No internet,3,1.0,True,2021-08-05
+CUS-0569,Female,52,46,56.68,2453.06,Month-to-month,Credit card,DSL,8,8.7,True,2022-12-28
+CUS-0570,Female,47,38,86.54,2969.49,Month-to-month,Mailed check,No internet,3,3.7,False,2023-08-25
+CUS-0571,Male,58,46,71.22,3654.72,One year,Bank transfer,Fiber optic,0,2.7,False,2022-12-28
+CUS-0572,Male,22,70,86.12,6027.83,One year,Credit card,Fiber optic,5,1.5,True,2021-01-07
+CUS-0573,Male,31,67,68.55,4838.22,Two year,Bank transfer,No internet,3,9.3,False,2021-04-07
+CUS-0574,Male,49,3,69.77,235.56,Month-to-month,Bank transfer,No internet,2,1.1,False,2026-07-10
+CUS-0575,Male,70,13,68.34,800.65,Two year,Credit card,Fiber optic,1,5.5,True,2025-09-13
+CUS-0576,Male,30,55,57.05,3453.94,Two year,Mailed check,DSL,1,9.8,False,2022-04-02
+CUS-0577,Female,68,28,97.6,2809.12,One year,Credit card,Fiber optic,4,2.3,True,2024-06-20
+CUS-0578,Female,41,71,40.68,2666.15,Two year,Credit card,Fiber optic,1,8.1,False,2020-12-08
+CUS-0579,Male,19,63,32.67,1753.94,Month-to-month,Electronic check,DSL,7,7.2,True,2021-08-05
+CUS-0580,Male,35,67,67.79,4186.64,Month-to-month,Credit card,No internet,2,7.5,False,2021-04-07
+CUS-0581,Female,68,39,58.05,1927.46,Month-to-month,Bank transfer,Fiber optic,8,9.8,False,2023-07-26
+CUS-0582,Male,52,65,45.83,3220.54,Two year,Bank transfer,DSL,0,2.7,False,2021-06-06
+CUS-0583,Female,48,64,41.75,2808.39,Month-to-month,Credit card,No internet,5,3.6,True,2021-07-06
+CUS-0584,Male,57,59,29.12,1842.0,Two year,Bank transfer,Fiber optic,0,5.4,False,2021-12-03
+CUS-0585,Male,33,57,81.31,4392.7,Month-to-month,Electronic check,Fiber optic,1,3.9,True,2022-02-01
+CUS-0586,Female,44,26,60.68,1445.47,One year,Mailed check,Fiber optic,6,2.3,True,2024-08-19
+CUS-0587,Male,41,18,68.49,1119.7,One year,Electronic check,Fiber optic,5,2.1,True,2025-04-16
+CUS-0588,Male,25,60,68.56,3707.84,One year,Bank transfer,DSL,2,8.1,False,2021-11-03
+CUS-0589,Female,53,30,33.22,1103.33,One year,Bank transfer,No internet,7,8.5,True,2024-04-21
+CUS-0590,Male,45,32,48.54,1522.64,Month-to-month,Bank transfer,No internet,0,4.8,True,2024-02-21
+CUS-0591,Male,48,65,28.19,1849.46,One year,Credit card,DSL,7,3.2,False,2021-06-06
+CUS-0592,Male,44,28,37.61,988.57,Two year,Credit card,Fiber optic,7,7.0,False,2024-06-20
+CUS-0593,Male,72,4,117.76,465.92,Month-to-month,Mailed check,Fiber optic,5,6.6,False,2026-06-10
+CUS-0594,Male,22,50,109.88,5218.6,Month-to-month,Electronic check,DSL,4,7.3,False,2022-08-30
+CUS-0595,Female,23,43,94.9,3535.7,Two year,Electronic check,Fiber optic,1,4.4,False,2023-03-28
+CUS-0596,Male,41,47,41.65,1992.08,Month-to-month,Bank transfer,Fiber optic,5,3.1,False,2022-11-28
+CUS-0597,Female,65,27,96.55,2810.88,One year,Electronic check,DSL,8,7.1,True,2024-07-20
+CUS-0598,Female,41,45,67.98,3060.43,Month-to-month,Mailed check,No internet,8,7.1,False,2023-01-27
+CUS-0599,Male,41,9,42.89,430.48,Month-to-month,Credit card,DSL,2,3.6,True,2026-01-11
+CUS-0600,Male,35,15,91.22,1366.79,Month-to-month,Credit card,DSL,6,9.7,False,2025-07-15
+CUS-0601,Female,44,57,95.08,4641.55,Month-to-month,Credit card,Fiber optic,3,8.5,False,2022-02-01
+CUS-0602,Female,39,42,71.18,3138.31,Two year,Mailed check,DSL,4,6.1,False,2023-04-27
+CUS-0603,Male,34,30,71.0,2430.79,Month-to-month,Bank transfer,DSL,4,5.1,False,2024-04-21
+CUS-0604,Female,28,69,52.1,4105.24,Two year,Bank transfer,Fiber optic,3,2.1,False,2021-02-06
+CUS-0605,Male,46,34,60.12,1863.27,Two year,Credit card,No internet,5,9.8,False,2023-12-23
+CUS-0606,Female,52,21,75.7,1409.18,Month-to-month,Mailed check,DSL,2,9.5,True,2025-01-16
+CUS-0607,Male,65,70,117.68,7820.65,Two year,Electronic check,DSL,4,9.7,False,2021-01-07
+CUS-0608,Male,64,57,57.18,2880.19,One year,Credit card,Fiber optic,8,2.1,False,2022-02-01
+CUS-0609,Female,71,29,67.37,1714.88,Month-to-month,Bank transfer,No internet,8,3.0,True,2024-05-21
+CUS-0610,Male,23,69,105.7,7680.71,Month-to-month,Mailed check,Fiber optic,7,3.9,False,2021-02-06
+CUS-0611,Female,41,51,39.05,2202.94,One year,Mailed check,DSL,0,3.6,False,2022-07-31
+CUS-0612,Female,46,72,33.32,2563.03,One year,Mailed check,DSL,4,2.5,False,2020-11-08
+CUS-0613,Female,44,18,104.37,1933.86,Month-to-month,Bank transfer,DSL,7,9.9,True,2025-04-16
+CUS-0614,Male,55,49,33.4,1592.15,One year,Mailed check,Fiber optic,8,5.2,True,2022-09-29
+CUS-0615,Male,71,49,52.5,2565.23,One year,Electronic check,DSL,8,7.7,True,2022-09-29
+CUS-0616,Female,18,20,49.95,1135.67,Two year,Mailed check,Fiber optic,4,4.8,False,2025-02-15
+CUS-0617,Female,59,32,27.7,956.79,One year,Credit card,No internet,5,6.2,False,2024-02-21
+CUS-0618,Male,58,61,117.55,7855.22,One year,Credit card,DSL,2,6.2,False,2021-10-04
+CUS-0619,Female,74,18,58.95,918.77,One year,Mailed check,No internet,5,1.4,False,2025-04-16
+CUS-0620,Female,22,66,43.41,2975.1,Month-to-month,Bank transfer,No internet,5,8.9,True,2021-05-07
+CUS-0621,Female,62,47,34.1,1641.19,Month-to-month,Credit card,Fiber optic,8,3.5,True,2022-11-28
+CUS-0622,Male,28,14,45.7,640.45,Month-to-month,Credit card,DSL,7,9.2,False,2025-08-14
+CUS-0623,Female,19,62,58.08,3807.35,Month-to-month,Mailed check,No internet,8,7.9,True,2021-09-04
+CUS-0624,Male,37,4,95.72,339.07,Month-to-month,Bank transfer,No internet,3,3.8,True,2026-06-10
+CUS-0625,Male,23,55,90.63,5409.39,Month-to-month,Credit card,DSL,6,1.4,True,2022-04-02
+CUS-0626,Male,60,66,81.35,5319.3,One year,Credit card,Fiber optic,4,7.0,False,2021-05-07
+CUS-0627,Female,56,27,80.82,1985.76,Two year,Electronic check,Fiber optic,1,2.3,False,2024-07-20
+CUS-0628,Male,40,46,40.25,1851.85,Two year,Bank transfer,No internet,1,1.9,False,2022-12-28
+CUS-0629,Female,63,25,116.61,2628.19,Two year,Credit card,No internet,1,9.3,False,2024-09-18
+CUS-0630,Male,55,24,66.77,1822.54,Month-to-month,Electronic check,DSL,6,2.9,True,2024-10-18
+CUS-0631,Male,66,41,36.74,1330.24,Month-to-month,Mailed check,DSL,4,6.0,True,2023-05-27
+CUS-0632,Female,49,15,61.55,911.33,Two year,Electronic check,No internet,7,3.0,True,2025-07-15
+CUS-0633,Female,72,55,42.93,2056.28,One year,Electronic check,Fiber optic,0,10.0,False,2022-04-02
+CUS-0634,Male,43,57,74.65,4480.38,Month-to-month,Bank transfer,DSL,6,7.3,False,2022-02-01
+CUS-0635,Female,75,22,31.15,783.0,One year,Bank transfer,No internet,6,2.1,False,2024-12-17
+CUS-0636,Female,35,35,96.85,3695.83,One year,Electronic check,DSL,6,9.9,True,2023-11-23
+CUS-0637,Male,47,14,36.61,510.9,Month-to-month,Bank transfer,Fiber optic,1,7.6,False,2025-08-14
+CUS-0638,Female,19,23,61.35,1486.91,Month-to-month,Electronic check,No internet,1,7.8,False,2024-11-17
+CUS-0639,Male,30,38,87.9,3330.43,One year,Electronic check,No internet,8,1.2,False,2023-08-25
+CUS-0640,Female,74,16,61.44,928.35,One year,Mailed check,DSL,0,1.3,False,2025-06-15
+CUS-0641,Female,28,63,65.91,3918.71,One year,Mailed check,Fiber optic,7,6.9,False,2021-08-05
+CUS-0642,Female,72,21,73.14,1485.89,One year,Mailed check,No internet,5,7.9,False,2025-01-16
+CUS-0643,Female,19,6,37.18,214.14,Two year,Credit card,No internet,5,4.4,True,2026-04-11
+CUS-0644,Male,40,53,58.37,3243.25,Month-to-month,Bank transfer,No internet,4,6.3,False,2022-06-01
+CUS-0645,Female,25,44,41.13,1830.58,Month-to-month,Mailed check,No internet,6,6.1,True,2023-02-26
+CUS-0646,Male,62,61,80.86,5651.26,One year,Mailed check,DSL,1,8.3,False,2021-10-04
+CUS-0647,Female,31,44,72.19,3473.15,Two year,Electronic check,Fiber optic,4,4.3,True,2023-02-26
+CUS-0648,Female,58,10,104.84,1059.67,One year,Electronic check,Fiber optic,4,10.0,False,2025-12-12
+CUS-0649,Female,57,12,93.18,1144.39,Two year,Electronic check,DSL,1,6.1,False,2025-10-13
+CUS-0650,Female,40,10,86.9,817.34,One year,Mailed check,No internet,8,3.8,True,2025-12-12
+CUS-0651,Female,57,66,68.06,4846.97,Month-to-month,Credit card,No internet,8,8.8,True,2021-05-07
+CUS-0652,Female,70,60,50.45,3152.25,Two year,Mailed check,No internet,0,5.7,False,2021-11-03
+CUS-0653,Female,33,20,95.91,2071.0,One year,Mailed check,DSL,1,6.7,False,2025-02-15
+CUS-0654,Male,36,21,49.36,1068.04,One year,Bank transfer,Fiber optic,2,2.7,False,2025-01-16
+CUS-0655,Male,37,60,71.11,4895.45,One year,Credit card,Fiber optic,2,3.5,True,2021-11-03
+CUS-0656,Male,69,36,87.57,2846.08,Month-to-month,Mailed check,Fiber optic,0,8.7,True,2023-10-24
+CUS-0657,Male,37,9,110.55,967.19,One year,Credit card,DSL,2,3.1,False,2026-01-11
+CUS-0658,Female,71,68,48.92,3710.34,Month-to-month,Credit card,DSL,5,8.5,False,2021-03-08
+CUS-0659,Female,65,31,113.87,3231.34,Month-to-month,Bank transfer,Fiber optic,4,5.0,False,2024-03-22
+CUS-0660,Male,21,63,75.68,5053.36,Month-to-month,Electronic check,No internet,6,5.3,False,2021-08-05
+CUS-0661,Male,74,19,59.48,1203.24,One year,Credit card,No internet,0,8.6,False,2025-03-17
+CUS-0662,Male,68,31,49.03,1467.35,Two year,Electronic check,No internet,1,5.8,False,2024-03-22
+CUS-0663,Male,42,2,111.43,215.7,One year,Electronic check,Fiber optic,3,3.7,False,2026-08-09
+CUS-0664,Female,58,41,108.55,4806.69,One year,Credit card,DSL,1,8.4,False,2023-05-27
+CUS-0665,Female,44,43,93.15,4458.18,Month-to-month,Bank transfer,No internet,4,5.6,True,2023-03-28
+CUS-0666,Male,64,71,95.09,6656.73,Month-to-month,Credit card,No internet,2,6.7,True,2020-12-08
+CUS-0667,Female,30,40,54.8,1917.28,Month-to-month,Bank transfer,No internet,2,8.6,False,2023-06-26
+CUS-0668,Male,38,58,70.44,4373.76,One year,Bank transfer,No internet,5,8.2,True,2022-01-02
+CUS-0669,Male,41,24,62.38,1442.02,Two year,Bank transfer,Fiber optic,0,9.3,False,2024-10-18
+CUS-0670,Male,47,26,49.87,1433.48,Month-to-month,Mailed check,No internet,6,6.4,True,2024-08-19
+CUS-0671,Male,41,22,114.99,2239.37,Two year,Mailed check,DSL,7,2.1,True,2024-12-17
+CUS-0672,Female,73,35,52.36,1829.39,Month-to-month,Mailed check,Fiber optic,3,10.0,False,2023-11-23
+CUS-0673,Male,30,54,42.14,2475.22,Month-to-month,Electronic check,DSL,3,6.6,False,2022-05-02
+CUS-0674,Female,61,59,33.15,1937.59,One year,Mailed check,No internet,3,7.4,False,2021-12-03
+CUS-0675,Male,34,10,34.05,295.43,One year,Bank transfer,DSL,5,10.0,True,2025-12-12
+CUS-0676,Female,50,49,53.74,2550.07,One year,Bank transfer,No internet,0,6.2,False,2022-09-29
+CUS-0677,Male,49,44,108.4,4242.92,One year,Mailed check,Fiber optic,4,2.1,False,2023-02-26
+CUS-0678,Female,49,36,96.04,3899.55,One year,Electronic check,No internet,4,5.7,False,2023-10-24
+CUS-0679,Male,38,63,97.55,5502.69,Two year,Mailed check,Fiber optic,3,2.3,True,2021-08-05
+CUS-0680,Female,48,34,40.54,1364.77,Month-to-month,Mailed check,Fiber optic,7,4.2,True,2023-12-23
+CUS-0681,Male,25,19,36.75,613.11,One year,Bank transfer,Fiber optic,8,8.4,False,2025-03-17
+CUS-0682,Male,18,68,97.85,6016.17,Month-to-month,Bank transfer,DSL,1,9.0,True,2021-03-08
+CUS-0683,Female,61,16,62.45,1026.28,Month-to-month,Electronic check,Fiber optic,0,1.7,True,2025-06-15
+CUS-0684,Male,35,1,56.3,48.6,Two year,Mailed check,DSL,2,2.9,False,2026-09-08
+CUS-0685,Male,36,42,100.82,4544.15,Two year,Mailed check,Fiber optic,6,3.3,False,2023-04-27
+CUS-0686,Male,73,52,33.47,1924.41,Month-to-month,Mailed check,DSL,4,6.8,True,2022-07-01
+CUS-0687,Male,49,56,94.91,5987.36,Two year,Bank transfer,DSL,1,8.5,False,2022-03-03
+CUS-0688,Female,74,50,70.26,3579.46,One year,Credit card,DSL,5,6.5,False,2022-08-30
+CUS-0689,Male,23,6,73.77,505.46,Two year,Bank transfer,No internet,2,9.4,False,2026-04-11
+CUS-0690,Female,45,11,111.18,1214.77,Month-to-month,Bank transfer,No internet,4,8.6,True,2025-11-12
+CUS-0691,Female,21,71,32.27,1978.49,Month-to-month,Mailed check,DSL,1,5.2,False,2020-12-08
+CUS-0692,Male,55,11,98.02,921.75,Two year,Mailed check,Fiber optic,2,8.6,True,2025-11-12
+CUS-0693,Male,74,39,54.82,2281.71,Two year,Mailed check,No internet,4,4.1,True,2023-07-26
+CUS-0694,Male,23,34,107.8,3232.34,Two year,Credit card,Fiber optic,6,2.1,False,2023-12-23
+CUS-0695,Female,47,52,107.53,6372.93,Two year,Mailed check,DSL,5,7.2,False,2022-07-01
+CUS-0696,Male,23,17,37.84,583.61,Month-to-month,Bank transfer,Fiber optic,3,5.3,False,2025-05-16
+CUS-0697,Male,45,69,43.14,2798.88,One year,Bank transfer,DSL,6,1.2,False,2021-02-06
+CUS-0698,Female,65,57,116.57,6587.66,One year,Bank transfer,Fiber optic,4,6.1,True,2022-02-01
+CUS-0699,Male,18,14,84.89,1264.44,One year,Mailed check,No internet,8,10.0,False,2025-08-14
+CUS-0700,Female,49,66,81.15,5535.05,Two year,Mailed check,Fiber optic,0,5.8,False,2021-05-07
+CUS-0701,Female,53,9,50.45,474.25,One year,Credit card,DSL,5,5.0,True,2026-01-11
+CUS-0702,Female,36,25,69.58,1707.2,Two year,Bank transfer,No internet,5,9.3,True,2024-09-18
+CUS-0703,Female,36,50,116.18,6389.46,Two year,Electronic check,DSL,2,6.6,False,2022-08-30
+CUS-0704,Female,23,62,37.26,2101.85,Two year,Mailed check,Fiber optic,6,9.5,False,2021-09-04
+CUS-0705,Male,31,72,29.47,1815.11,One year,Electronic check,No internet,2,2.6,False,2020-11-08
+CUS-0706,Female,39,56,35.83,1841.96,Two year,Bank transfer,DSL,4,9.9,False,2022-03-03
+CUS-0707,Female,67,72,50.41,3249.7,Two year,Credit card,No internet,0,9.3,False,2020-11-08
+CUS-0708,Male,71,15,117.59,1912.89,Two year,Credit card,No internet,0,5.6,False,2025-07-15
+CUS-0709,Male,73,27,111.54,2701.72,One year,Mailed check,No internet,7,7.6,True,2024-07-20
+CUS-0710,Female,41,43,102.82,3921.19,Month-to-month,Mailed check,DSL,0,3.2,True,2023-03-28
+CUS-0711,Female,50,22,33.1,700.33,One year,Electronic check,No internet,3,2.4,False,2024-12-17
+CUS-0712,Male,26,55,64.27,3438.68,One year,Electronic check,Fiber optic,7,2.3,False,2022-04-02
+CUS-0713,Male,51,9,33.05,280.92,Month-to-month,Mailed check,Fiber optic,6,7.8,False,2026-01-11
+CUS-0714,Male,21,67,117.4,7675.38,Two year,Electronic check,No internet,5,9.2,False,2021-04-07
+CUS-0715,Female,75,68,82.99,5045.46,One year,Mailed check,No internet,3,9.0,False,2021-03-08
+CUS-0716,Male,74,52,98.66,5716.68,Month-to-month,Credit card,No internet,5,4.5,True,2022-07-01
+CUS-0717,Female,52,37,45.3,1681.97,One year,Electronic check,No internet,2,1.2,True,2023-09-24
+CUS-0718,Female,67,39,94.02,4202.45,Month-to-month,Credit card,DSL,4,6.6,True,2023-07-26
+CUS-0719,Male,66,16,67.63,1105.59,Month-to-month,Mailed check,DSL,3,8.2,False,2025-06-15
+CUS-0720,Female,36,18,92.86,1681.34,Month-to-month,Credit card,DSL,8,6.2,True,2025-04-16
+CUS-0721,Male,27,55,103.7,4988.19,Month-to-month,Mailed check,Fiber optic,7,2.9,True,2022-04-02
+CUS-0722,Female,51,52,80.88,4229.66,One year,Electronic check,No internet,7,6.7,False,2022-07-01
+CUS-0723,Male,49,54,103.26,4981.1,Month-to-month,Mailed check,No internet,7,2.2,False,2022-05-02
+CUS-0724,Female,47,61,28.1,1537.64,Two year,Electronic check,Fiber optic,6,2.0,False,2021-10-04
+CUS-0725,Male,20,67,39.56,2548.32,One year,Electronic check,DSL,7,1.3,True,2021-04-07
+CUS-0726,Female,55,54,29.62,1788.66,One year,Bank transfer,Fiber optic,7,1.0,True,2022-05-02
+CUS-0727,Male,20,54,70.71,3600.35,One year,Electronic check,DSL,7,8.5,False,2022-05-02
+CUS-0728,Female,50,59,97.36,6032.41,Month-to-month,Electronic check,Fiber optic,6,4.5,True,2021-12-03
+CUS-0729,Male,20,57,94.91,5646.69,Month-to-month,Credit card,No internet,4,6.0,False,2022-02-01
+CUS-0730,Male,23,25,115.74,2929.81,Month-to-month,Bank transfer,DSL,8,9.1,False,2024-09-18
+CUS-0731,Female,52,24,116.43,2605.67,Month-to-month,Bank transfer,No internet,7,1.8,True,2024-10-18
+CUS-0732,Female,20,63,106.89,5770.96,One year,Bank transfer,DSL,0,8.7,False,2021-08-05
+CUS-0733,Male,23,15,118.08,1793.4,One year,Bank transfer,Fiber optic,4,7.9,True,2025-07-15
+CUS-0734,Male,44,22,30.6,766.33,Month-to-month,Credit card,No internet,0,3.7,True,2024-12-17
+CUS-0735,Male,44,42,49.5,2354.41,Month-to-month,Credit card,Fiber optic,3,7.8,False,2023-04-27
+CUS-0736,Female,66,65,61.58,3540.49,Month-to-month,Electronic check,DSL,8,4.7,True,2021-06-06
+CUS-0737,Male,58,30,111.8,2869.64,Two year,Credit card,Fiber optic,8,6.9,True,2024-04-21
+CUS-0738,Male,44,58,32.97,1990.16,Month-to-month,Bank transfer,DSL,8,9.9,False,2022-01-02
+CUS-0739,Female,45,72,67.92,4158.17,One year,Electronic check,No internet,2,1.0,False,2020-11-08
+CUS-0740,Male,34,49,119.93,6480.28,Month-to-month,Electronic check,Fiber optic,2,7.7,True,2022-09-29
+CUS-0741,Female,43,16,103.9,1774.65,One year,Mailed check,Fiber optic,8,9.6,False,2025-06-15
+CUS-0742,Female,39,34,118.07,4264.58,One year,Bank transfer,No internet,5,4.1,False,2023-12-23
+CUS-0743,Female,39,3,111.83,298.63,Month-to-month,Mailed check,Fiber optic,0,7.1,False,2026-07-10
+CUS-0744,Female,62,63,97.43,6208.31,Two year,Credit card,No internet,0,9.0,False,2021-08-05
+CUS-0745,Male,40,49,103.61,4860.56,Month-to-month,Credit card,Fiber optic,7,4.3,True,2022-09-29
+CUS-0746,Female,32,3,97.05,306.92,Two year,Electronic check,Fiber optic,1,8.3,False,2026-07-10
+CUS-0747,Female,32,30,118.11,4040.03,Month-to-month,Electronic check,DSL,3,1.1,True,2024-04-21
+CUS-0748,Male,35,65,71.93,4748.09,Two year,Bank transfer,Fiber optic,2,7.7,False,2021-06-06
+CUS-0749,Female,54,30,108.7,3484.93,One year,Bank transfer,No internet,0,9.9,False,2024-04-21
+CUS-0750,Female,74,59,25.19,1453.71,Two year,Credit card,DSL,6,8.6,False,2021-12-03
+CUS-0751,Female,61,67,69.33,4452.07,Month-to-month,Bank transfer,Fiber optic,4,9.3,True,2021-04-07
+CUS-0752,Male,43,25,56.8,1581.92,Month-to-month,Bank transfer,No internet,6,9.6,True,2024-09-18
+CUS-0753,Female,39,40,30.97,1285.36,Month-to-month,Mailed check,DSL,0,6.3,False,2023-06-26
+CUS-0754,Female,33,14,69.99,1114.73,Month-to-month,Electronic check,No internet,3,9.5,False,2025-08-14
+CUS-0755,Male,58,58,80.0,4063.06,Month-to-month,Credit card,DSL,5,9.0,False,2022-01-02
+CUS-0756,Female,21,57,30.2,1778.59,One year,Credit card,Fiber optic,0,6.0,False,2022-02-01
+CUS-0757,Female,43,13,83.64,1058.32,Two year,Credit card,DSL,6,5.2,False,2025-09-13
+CUS-0758,Male,57,13,57.26,842.1,Month-to-month,Mailed check,No internet,5,6.3,True,2025-09-13
+CUS-0759,Female,56,9,81.32,806.7,Two year,Bank transfer,No internet,8,3.3,True,2026-01-11
+CUS-0760,Female,57,57,42.66,2167.31,Month-to-month,Credit card,Fiber optic,4,6.3,True,2022-02-01
+CUS-0761,Male,74,70,98.67,6176.31,One year,Electronic check,DSL,5,9.7,True,2021-01-07
+CUS-0762,Female,50,72,106.58,7494.33,Month-to-month,Bank transfer,No internet,3,8.1,True,2020-11-08
+CUS-0763,Male,48,60,81.98,4669.63,Two year,Electronic check,No internet,4,4.8,True,2021-11-03
+CUS-0764,Male,74,6,72.11,487.17,Two year,Bank transfer,No internet,3,5.2,False,2026-04-11
+CUS-0765,Female,65,43,101.69,4209.89,One year,Bank transfer,Fiber optic,5,1.1,True,2023-03-28
+CUS-0766,Female,25,19,52.6,907.78,Two year,Electronic check,Fiber optic,0,2.8,True,2025-03-17
+CUS-0767,Female,74,34,93.29,3019.44,Two year,Bank transfer,Fiber optic,3,1.2,False,2023-12-23
+CUS-0768,Female,19,18,61.0,1192.67,Month-to-month,Electronic check,Fiber optic,4,5.1,False,2025-04-16
+CUS-0769,Male,60,22,114.41,2877.28,Two year,Mailed check,No internet,1,2.1,False,2024-12-17
+CUS-0770,Male,30,69,60.93,4045.57,Two year,Mailed check,No internet,3,9.3,False,2021-02-06
+CUS-0771,Male,36,20,56.13,972.15,One year,Bank transfer,No internet,7,2.9,False,2025-02-15
+CUS-0772,Female,68,9,40.91,355.83,Two year,Electronic check,DSL,8,5.2,False,2026-01-11
+CUS-0773,Male,51,62,92.99,5756.37,One year,Mailed check,No internet,0,2.9,False,2021-09-04
+CUS-0774,Male,33,51,45.77,2281.76,One year,Bank transfer,DSL,4,6.0,False,2022-07-31
+CUS-0775,Female,36,57,74.29,3891.76,Month-to-month,Mailed check,No internet,5,4.8,True,2022-02-01
+CUS-0776,Female,41,64,55.12,3403.19,Month-to-month,Mailed check,Fiber optic,4,6.8,False,2021-07-06
+CUS-0777,Male,36,65,73.72,4998.31,One year,Bank transfer,Fiber optic,1,1.6,False,2021-06-06
+CUS-0778,Female,39,26,89.14,2143.83,Two year,Electronic check,Fiber optic,2,10.0,True,2024-08-19
+CUS-0779,Male,37,37,103.12,4139.52,One year,Mailed check,No internet,0,5.2,False,2023-09-24
+CUS-0780,Male,32,30,93.72,2566.89,Month-to-month,Mailed check,No internet,7,4.1,True,2024-04-21
+CUS-0781,Male,30,55,98.16,5719.39,Month-to-month,Mailed check,DSL,8,1.3,True,2022-04-02
+CUS-0782,Female,26,40,114.62,3910.4,Two year,Electronic check,DSL,3,4.8,False,2023-06-26
+CUS-0783,Female,62,69,53.47,3785.67,Two year,Credit card,Fiber optic,2,9.8,False,2021-02-06
+CUS-0784,Male,69,51,118.12,5489.55,One year,Credit card,No internet,6,2.7,True,2022-07-31
+CUS-0785,Male,46,39,33.86,1163.78,Two year,Bank transfer,Fiber optic,7,1.2,True,2023-07-26
+CUS-0786,Male,42,37,44.56,1545.4,Two year,Credit card,DSL,0,4.3,True,2023-09-24
+CUS-0787,Male,73,53,62.16,3778.37,Month-to-month,Mailed check,DSL,1,4.5,True,2022-06-01
+CUS-0788,Female,31,40,66.06,2808.61,One year,Bank transfer,No internet,4,6.3,False,2023-06-26
+CUS-0789,Female,18,19,67.34,1404.05,Two year,Bank transfer,No internet,5,9.2,False,2025-03-17
+CUS-0790,Male,54,6,95.04,533.96,One year,Electronic check,No internet,4,4.5,True,2026-04-11
+CUS-0791,Male,29,56,68.49,4308.16,Month-to-month,Credit card,DSL,0,3.2,True,2022-03-03
+CUS-0792,Male,58,69,52.73,4092.76,Two year,Bank transfer,DSL,6,9.9,False,2021-02-06
+CUS-0793,Male,22,14,72.92,1106.48,One year,Mailed check,Fiber optic,4,2.9,False,2025-08-14
+CUS-0794,Male,22,60,61.21,3943.59,Month-to-month,Mailed check,Fiber optic,0,3.3,True,2021-11-03
+CUS-0795,Female,65,60,71.05,3710.82,Two year,Bank transfer,No internet,7,2.3,False,2021-11-03
+CUS-0796,Male,28,3,82.66,223.97,Month-to-month,Mailed check,Fiber optic,1,7.0,False,2026-07-10
+CUS-0797,Male,27,57,59.02,3078.19,Month-to-month,Bank transfer,DSL,0,8.5,False,2022-02-01
+CUS-0798,Male,37,57,29.98,1454.92,One year,Bank transfer,Fiber optic,5,9.2,True,2022-02-01
+CUS-0799,Male,44,4,118.98,452.66,Month-to-month,Credit card,Fiber optic,1,8.2,False,2026-06-10
+CUS-0800,Female,20,54,73.69,4356.05,One year,Bank transfer,No internet,3,9.4,False,2022-05-02
+CUS-0801,Male,25,30,45.31,1300.81,Month-to-month,Credit card,DSL,5,1.1,True,2024-04-21
+CUS-0802,Female,22,36,86.74,2999.9,Month-to-month,Bank transfer,DSL,4,7.9,False,2023-10-24
+CUS-0803,Female,24,69,100.17,7787.22,Two year,Bank transfer,DSL,1,6.4,False,2021-02-06
+CUS-0804,Male,67,18,56.54,1059.05,Two year,Electronic check,No internet,7,1.6,False,2025-04-16
+CUS-0805,Male,55,58,61.33,3707.17,Month-to-month,Credit card,Fiber optic,0,6.5,False,2022-01-02
+CUS-0806,Male,65,55,96.94,5523.27,Month-to-month,Bank transfer,DSL,7,3.7,True,2022-04-02
+CUS-0807,Male,59,5,47.62,254.19,One year,Electronic check,Fiber optic,4,3.9,True,2026-05-11
+CUS-0808,Male,44,37,96.3,3273.43,Two year,Electronic check,DSL,3,2.9,False,2023-09-24
+CUS-0809,Male,60,32,101.14,3427.05,Month-to-month,Mailed check,No internet,5,2.7,True,2024-02-21
+CUS-0810,Male,49,9,115.6,900.6,Month-to-month,Bank transfer,Fiber optic,1,2.6,True,2026-01-11
+CUS-0811,Male,23,55,93.87,4870.83,Two year,Bank transfer,Fiber optic,6,2.6,True,2022-04-02
+CUS-0812,Female,54,58,116.93,6174.42,One year,Credit card,DSL,6,4.4,True,2022-01-02
+CUS-0813,Female,50,56,97.23,5966.94,One year,Credit card,DSL,6,8.7,False,2022-03-03
+CUS-0814,Female,27,71,94.03,6190.02,One year,Electronic check,DSL,4,4.4,True,2020-12-08
+CUS-0815,Female,26,61,43.59,2990.94,Month-to-month,Credit card,No internet,5,5.4,False,2021-10-04
+CUS-0816,Male,65,48,61.48,2780.89,Two year,Credit card,DSL,0,9.9,False,2022-10-29
+CUS-0817,Female,54,21,43.45,895.01,One year,Electronic check,No internet,7,6.7,False,2025-01-16
+CUS-0818,Male,59,50,113.02,6050.52,Month-to-month,Mailed check,Fiber optic,5,6.7,False,2022-08-30
+CUS-0819,Male,59,19,49.83,934.12,Two year,Bank transfer,DSL,3,6.4,False,2025-03-17
+CUS-0820,Male,67,12,86.22,1164.04,One year,Credit card,No internet,3,8.9,False,2025-10-13
+CUS-0821,Male,34,39,72.56,2858.03,One year,Electronic check,No internet,6,7.8,True,2023-07-26
+CUS-0822,Male,54,45,102.35,4286.6,Month-to-month,Mailed check,No internet,4,1.1,False,2023-01-27
+CUS-0823,Male,18,13,31.63,435.41,Two year,Mailed check,No internet,4,7.6,False,2025-09-13
+CUS-0824,Male,29,18,43.81,713.35,Month-to-month,Mailed check,No internet,3,2.7,False,2025-04-16
+CUS-0825,Male,69,25,49.64,1390.77,One year,Mailed check,No internet,1,8.8,False,2024-09-18
+CUS-0826,Male,23,49,36.84,1569.19,Month-to-month,Bank transfer,DSL,7,7.1,True,2022-09-29
+CUS-0827,Female,35,1,88.21,95.86,Month-to-month,Credit card,Fiber optic,8,8.1,True,2026-09-08
+CUS-0828,Female,66,35,113.55,3942.33,One year,Mailed check,DSL,5,7.1,False,2023-11-23
+CUS-0829,Male,70,31,114.39,3721.7,One year,Credit card,DSL,5,8.3,False,2024-03-22
+CUS-0830,Female,62,52,93.9,5451.11,Month-to-month,Credit card,No internet,1,8.8,False,2022-07-01
+CUS-0831,Male,66,32,60.0,1988.17,Two year,Mailed check,No internet,6,6.9,False,2024-02-21
+CUS-0832,Female,70,42,26.58,1069.54,Month-to-month,Electronic check,No internet,7,3.1,True,2023-04-27
+CUS-0833,Male,57,11,58.09,723.16,One year,Credit card,No internet,6,3.6,False,2025-11-12
+CUS-0834,Female,73,67,108.24,7871.83,Two year,Credit card,Fiber optic,7,8.2,False,2021-04-07
+CUS-0835,Male,53,60,40.97,2418.59,Month-to-month,Mailed check,No internet,8,3.2,True,2021-11-03
+CUS-0836,Male,60,12,35.02,482.44,Month-to-month,Bank transfer,DSL,6,7.9,False,2025-10-13
+CUS-0837,Female,60,61,115.39,7399.04,Two year,Bank transfer,No internet,7,1.8,False,2021-10-04
+CUS-0838,Female,54,9,86.18,747.0,Two year,Mailed check,No internet,8,9.7,False,2026-01-11
+CUS-0839,Male,32,34,35.99,1072.3,Month-to-month,Electronic check,No internet,3,7.7,False,2023-12-23
+CUS-0840,Female,26,41,115.64,4850.64,Month-to-month,Electronic check,Fiber optic,8,2.7,False,2023-05-27
+CUS-0841,Female,38,47,100.76,5352.2,Month-to-month,Bank transfer,Fiber optic,6,1.1,True,2022-11-28
+CUS-0842,Male,70,38,104.54,3972.32,One year,Bank transfer,No internet,4,2.3,False,2023-08-25
+CUS-0843,Female,37,65,119.08,6865.86,Two year,Mailed check,No internet,3,5.5,True,2021-06-06
+CUS-0844,Male,69,43,39.51,1809.41,Two year,Bank transfer,No internet,0,9.3,False,2023-03-28
+CUS-0845,Female,64,51,53.41,2981.33,Month-to-month,Credit card,No internet,6,4.0,False,2022-07-31
+CUS-0846,Female,66,51,62.15,3196.13,One year,Electronic check,No internet,3,7.3,False,2022-07-31
+CUS-0847,Female,38,7,105.73,786.65,One year,Bank transfer,No internet,2,5.0,True,2026-03-12
+CUS-0848,Male,27,27,45.72,1326.42,Two year,Credit card,DSL,1,7.1,False,2024-07-20
+CUS-0849,Female,45,22,112.97,2184.15,One year,Bank transfer,Fiber optic,1,9.8,False,2024-12-17
+CUS-0850,Female,27,52,48.28,2223.45,One year,Mailed check,DSL,2,6.9,False,2022-07-01
+CUS-0851,Male,68,12,98.88,1316.45,Two year,Mailed check,DSL,7,4.3,True,2025-10-13
+CUS-0852,Male,25,63,85.93,6076.99,Month-to-month,Credit card,No internet,7,3.5,False,2021-08-05
+CUS-0853,Male,29,50,71.0,3704.0,One year,Electronic check,No internet,2,1.9,False,2022-08-30
+CUS-0854,Female,73,69,42.56,3212.27,Month-to-month,Mailed check,No internet,8,8.1,True,2021-02-06
+CUS-0855,Male,71,69,92.81,6961.16,Month-to-month,Bank transfer,No internet,1,2.6,True,2021-02-06
+CUS-0856,Male,46,41,36.69,1336.78,Month-to-month,Bank transfer,Fiber optic,8,3.3,True,2023-05-27
+CUS-0857,Male,25,65,53.36,3953.57,Month-to-month,Mailed check,No internet,0,3.2,False,2021-06-06
+CUS-0858,Female,51,38,87.62,3274.54,Two year,Mailed check,No internet,5,5.7,False,2023-08-25
+CUS-0859,Male,50,27,90.35,2558.46,Month-to-month,Bank transfer,Fiber optic,3,2.3,False,2024-07-20
+CUS-0860,Female,56,71,45.52,3095.27,Month-to-month,Mailed check,Fiber optic,8,3.3,False,2020-12-08
+CUS-0861,Male,28,52,68.33,4027.23,Two year,Mailed check,No internet,2,5.8,False,2022-07-01
+CUS-0862,Female,35,25,92.87,2366.08,Two year,Bank transfer,DSL,2,3.8,False,2024-09-18
+CUS-0863,Female,56,32,32.36,918.91,Month-to-month,Mailed check,Fiber optic,5,6.8,False,2024-02-21
+CUS-0864,Male,67,35,38.9,1483.26,One year,Credit card,Fiber optic,6,9.8,False,2023-11-23
+CUS-0865,Female,24,16,41.69,712.73,One year,Mailed check,Fiber optic,8,4.1,False,2025-06-15
+CUS-0866,Female,56,13,110.17,1290.74,One year,Bank transfer,DSL,8,6.0,False,2025-09-13
+CUS-0867,Female,26,34,25.9,884.18,Month-to-month,Bank transfer,Fiber optic,6,6.1,True,2023-12-23
+CUS-0868,Female,64,48,92.21,4092.94,Two year,Mailed check,No internet,7,2.6,False,2022-10-29
+CUS-0869,Female,50,37,51.2,1853.35,Two year,Bank transfer,DSL,1,9.5,False,2023-09-24
+CUS-0870,Female,72,12,85.29,893.51,Month-to-month,Credit card,Fiber optic,0,1.8,True,2025-10-13
+CUS-0871,Male,49,2,116.41,227.51,Two year,Bank transfer,DSL,7,5.6,False,2026-08-09
+CUS-0872,Male,57,25,111.53,2993.95,Two year,Mailed check,No internet,8,7.7,False,2024-09-18
+CUS-0873,Male,60,68,89.99,5279.18,One year,Bank transfer,No internet,8,9.1,True,2021-03-08
+CUS-0874,Male,71,18,73.8,1508.72,One year,Mailed check,DSL,2,4.4,False,2025-04-16
+CUS-0875,Male,61,32,104.01,3678.57,Month-to-month,Electronic check,DSL,7,3.6,True,2024-02-21
+CUS-0876,Male,58,51,45.66,2192.31,Two year,Credit card,DSL,7,1.5,False,2022-07-31
+CUS-0877,Female,39,39,58.62,1946.79,Two year,Bank transfer,DSL,5,1.1,False,2023-07-26
+CUS-0878,Female,23,68,73.86,4500.71,Month-to-month,Mailed check,Fiber optic,2,7.9,True,2021-03-08
+CUS-0879,Female,43,48,53.43,2509.51,Month-to-month,Electronic check,Fiber optic,7,6.9,True,2022-10-29
+CUS-0880,Male,40,56,25.55,1595.45,Two year,Bank transfer,Fiber optic,3,3.6,False,2022-03-03
+CUS-0881,Female,65,43,110.59,4270.77,Month-to-month,Mailed check,No internet,4,2.1,True,2023-03-28
+CUS-0882,Male,69,17,55.86,1024.94,One year,Mailed check,Fiber optic,1,9.6,False,2025-05-16
+CUS-0883,Female,40,65,26.3,1804.09,Month-to-month,Electronic check,DSL,0,4.9,True,2021-06-06
+CUS-0884,Female,23,55,48.54,2391.38,Two year,Bank transfer,Fiber optic,4,7.9,False,2022-04-02
+CUS-0885,Male,33,55,43.85,2561.13,Month-to-month,Bank transfer,Fiber optic,2,3.1,True,2022-04-02
+CUS-0886,Female,35,25,113.26,2768.9,Two year,Bank transfer,Fiber optic,0,4.4,False,2024-09-18
+CUS-0887,Female,32,29,56.94,1640.95,Two year,Mailed check,No internet,0,3.7,False,2024-05-21
+CUS-0888,Female,40,54,48.46,2927.02,Month-to-month,Credit card,Fiber optic,0,6.9,True,2022-05-02
+CUS-0889,Male,48,36,111.31,3527.22,Month-to-month,Electronic check,DSL,5,4.0,True,2023-10-24
+CUS-0890,Male,18,71,98.19,6198.3,One year,Electronic check,No internet,8,6.4,False,2020-12-08
+CUS-0891,Female,31,50,33.29,1467.94,Two year,Credit card,Fiber optic,3,2.7,False,2022-08-30
+CUS-0892,Male,22,70,83.81,5517.3,One year,Bank transfer,No internet,2,1.4,False,2021-01-07
+CUS-0893,Male,63,33,109.7,3901.77,Two year,Electronic check,DSL,7,6.7,False,2024-01-22
+CUS-0894,Male,22,62,64.81,4538.18,Two year,Credit card,Fiber optic,4,7.3,False,2021-09-04
+CUS-0895,Male,54,8,100.47,850.49,Two year,Mailed check,DSL,8,8.8,True,2026-02-10
+CUS-0896,Male,66,66,61.49,4398.48,One year,Electronic check,Fiber optic,2,1.0,False,2021-05-07
+CUS-0897,Female,18,66,68.27,4786.65,Two year,Electronic check,DSL,3,3.7,False,2021-05-07
+CUS-0898,Male,28,29,29.33,783.77,Month-to-month,Bank transfer,DSL,2,3.4,False,2024-05-21
+CUS-0899,Female,33,27,75.79,1740.24,One year,Electronic check,DSL,1,9.5,False,2024-07-20
+CUS-0900,Male,44,38,55.84,1840.08,Month-to-month,Electronic check,Fiber optic,4,2.6,True,2023-08-25
+CUS-0901,Female,73,14,93.65,1385.09,Two year,Electronic check,No internet,8,2.9,True,2025-08-14
+CUS-0902,Female,35,27,80.26,2367.08,One year,Bank transfer,DSL,3,7.6,False,2024-07-20
+CUS-0903,Male,75,62,33.9,1900.98,Month-to-month,Bank transfer,Fiber optic,7,9.5,False,2021-09-04
+CUS-0904,Male,19,40,40.48,1462.66,One year,Bank transfer,Fiber optic,2,1.6,False,2023-06-26
+CUS-0905,Male,59,52,34.52,1809.46,Two year,Credit card,No internet,1,4.4,True,2022-07-01
+CUS-0906,Male,18,6,37.56,243.62,One year,Bank transfer,No internet,0,8.1,False,2026-04-11
+CUS-0907,Female,24,70,94.93,6322.93,Two year,Credit card,Fiber optic,2,5.3,False,2021-01-07
+CUS-0908,Male,37,43,70.5,2798.51,Two year,Electronic check,No internet,8,2.1,True,2023-03-28
+CUS-0909,Female,36,14,73.6,1134.41,Month-to-month,Credit card,Fiber optic,0,3.0,True,2025-08-14
+CUS-0910,Male,59,37,46.46,1914.47,One year,Credit card,DSL,2,9.9,False,2023-09-24
+CUS-0911,Female,36,46,32.25,1409.5,One year,Credit card,Fiber optic,2,2.6,False,2022-12-28
+CUS-0912,Female,61,55,39.27,2268.24,One year,Electronic check,DSL,1,3.4,False,2022-04-02
+CUS-0913,Female,34,10,99.94,1107.85,Month-to-month,Bank transfer,DSL,2,4.5,False,2025-12-12
+CUS-0914,Female,25,55,116.16,5964.22,Month-to-month,Electronic check,Fiber optic,2,7.9,True,2022-04-02
+CUS-0915,Female,45,62,90.87,5488.49,Two year,Electronic check,Fiber optic,3,4.4,False,2021-09-04
+CUS-0916,Male,49,69,75.94,4815.61,Month-to-month,Mailed check,No internet,3,7.3,False,2021-02-06
+CUS-0917,Male,31,3,59.43,176.9,Month-to-month,Credit card,Fiber optic,5,4.2,True,2026-07-10
+CUS-0918,Male,27,71,117.32,9361.66,Month-to-month,Bank transfer,Fiber optic,0,7.7,False,2020-12-08
+CUS-0919,Male,63,19,60.86,992.03,One year,Electronic check,Fiber optic,1,7.0,False,2025-03-17
+CUS-0920,Female,56,21,27.87,561.61,Month-to-month,Bank transfer,Fiber optic,0,6.1,True,2025-01-16
+CUS-0921,Female,29,61,95.64,6268.28,Two year,Electronic check,DSL,6,7.5,False,2021-10-04
+CUS-0922,Male,62,2,52.24,93.69,Two year,Credit card,No internet,2,5.5,False,2026-08-09
+CUS-0923,Male,45,59,77.64,5033.59,Two year,Electronic check,No internet,3,4.8,False,2021-12-03
+CUS-0924,Male,23,67,60.87,4630.17,Two year,Bank transfer,DSL,0,3.0,False,2021-04-07
+CUS-0925,Female,53,10,102.57,1015.99,One year,Mailed check,DSL,2,1.5,False,2025-12-12
+CUS-0926,Male,30,35,35.3,1079.01,Two year,Electronic check,Fiber optic,3,3.5,True,2023-11-23
+CUS-0927,Male,56,2,96.87,182.65,Two year,Bank transfer,No internet,0,3.2,False,2026-08-09
+CUS-0928,Male,54,6,78.56,512.4,Month-to-month,Credit card,DSL,1,9.5,False,2026-04-11
+CUS-0929,Male,66,37,116.08,4295.24,One year,Mailed check,No internet,5,9.8,False,2023-09-24
+CUS-0930,Male,75,65,34.6,2456.47,Month-to-month,Credit card,No internet,6,5.3,True,2021-06-06
+CUS-0931,Male,27,60,32.48,2022.44,Two year,Bank transfer,Fiber optic,2,7.9,False,2021-11-03
+CUS-0932,Female,50,67,119.27,8251.77,Two year,Electronic check,DSL,2,4.1,False,2021-04-07
+CUS-0933,Female,45,6,109.61,711.75,One year,Bank transfer,Fiber optic,1,9.6,True,2026-04-11
+CUS-0934,Female,18,19,97.8,1752.03,Month-to-month,Mailed check,Fiber optic,7,3.8,True,2025-03-17
+CUS-0935,Female,35,47,58.57,2398.62,Two year,Mailed check,DSL,7,9.8,False,2022-11-28
+CUS-0936,Male,26,16,117.31,1870.35,One year,Electronic check,DSL,6,8.7,False,2025-06-15
+CUS-0937,Male,50,41,60.5,2616.08,Two year,Mailed check,DSL,0,6.6,False,2023-05-27
+CUS-0938,Male,33,72,25.75,2050.37,One year,Mailed check,Fiber optic,6,8.7,False,2020-11-08
+CUS-0939,Male,47,12,58.15,691.2,Two year,Mailed check,Fiber optic,1,2.6,False,2025-10-13
+CUS-0940,Female,43,56,43.95,2334.73,One year,Electronic check,No internet,7,2.9,True,2022-03-03
+CUS-0941,Female,47,5,76.78,435.56,Month-to-month,Bank transfer,DSL,0,9.9,True,2026-05-11
+CUS-0942,Female,69,47,100.01,5375.31,Month-to-month,Credit card,Fiber optic,0,9.6,True,2022-11-28
+CUS-0943,Male,58,23,32.94,659.72,One year,Credit card,DSL,7,8.8,False,2024-11-17
+CUS-0944,Female,34,24,103.9,2188.71,One year,Electronic check,DSL,2,2.8,False,2024-10-18
+CUS-0945,Male,52,21,116.73,2404.84,Two year,Mailed check,Fiber optic,8,8.0,True,2025-01-16
+CUS-0946,Male,60,19,55.75,1213.81,Two year,Electronic check,Fiber optic,2,9.1,False,2025-03-17
+CUS-0947,Male,38,15,100.24,1582.06,One year,Credit card,DSL,2,6.7,True,2025-07-15
+CUS-0948,Male,65,25,64.92,1645.44,Month-to-month,Mailed check,Fiber optic,5,2.9,False,2024-09-18
+CUS-0949,Female,54,2,60.17,115.42,One year,Electronic check,No internet,1,7.3,False,2026-08-09
+CUS-0950,Male,40,46,103.68,4663.19,One year,Credit card,Fiber optic,7,4.9,False,2022-12-28
+CUS-0951,Male,28,70,66.41,4348.9,Two year,Mailed check,No internet,4,7.3,False,2021-01-07
+CUS-0952,Female,69,14,33.52,401.2,One year,Credit card,DSL,8,1.9,False,2025-08-14
+CUS-0953,Male,69,5,88.43,488.8,Month-to-month,Bank transfer,DSL,8,4.4,False,2026-05-11
+CUS-0954,Female,25,45,116.92,5914.91,One year,Mailed check,Fiber optic,5,8.0,True,2023-01-27
+CUS-0955,Male,60,34,54.2,2065.41,One year,Bank transfer,Fiber optic,6,1.3,True,2023-12-23
+CUS-0956,Female,41,67,102.9,7101.02,One year,Bank transfer,No internet,6,3.2,True,2021-04-07
+CUS-0957,Male,59,51,103.71,5767.35,Two year,Mailed check,Fiber optic,6,9.8,False,2022-07-31
+CUS-0958,Female,38,67,40.05,2466.78,Two year,Bank transfer,No internet,1,6.7,False,2021-04-07
+CUS-0959,Male,58,34,104.55,3191.11,One year,Bank transfer,Fiber optic,1,1.2,False,2023-12-23
+CUS-0960,Female,55,20,27.64,587.22,Month-to-month,Mailed check,Fiber optic,2,9.9,True,2025-02-15
+CUS-0961,Male,59,29,53.21,1559.49,Month-to-month,Mailed check,DSL,0,3.5,False,2024-05-21
+CUS-0962,Male,58,14,35.54,561.33,Month-to-month,Credit card,Fiber optic,4,3.4,True,2025-08-14
+CUS-0963,Male,49,47,111.71,4790.39,Month-to-month,Mailed check,Fiber optic,6,1.7,True,2022-11-28
+CUS-0964,Male,44,49,109.52,5581.49,One year,Bank transfer,Fiber optic,4,1.1,False,2022-09-29
+CUS-0965,Female,58,5,36.13,172.13,One year,Mailed check,No internet,8,1.0,False,2026-05-11
+CUS-0966,Male,30,4,75.92,305.32,Month-to-month,Bank transfer,DSL,1,9.1,True,2026-06-10
+CUS-0967,Female,32,11,94.14,1172.18,One year,Electronic check,DSL,3,9.6,False,2025-11-12
+CUS-0968,Female,59,38,69.37,2880.43,One year,Mailed check,Fiber optic,4,2.6,False,2023-08-25
+CUS-0969,Female,24,40,40.74,1485.79,Two year,Mailed check,DSL,7,4.8,False,2023-06-26
+CUS-0970,Male,57,14,82.69,1133.11,Two year,Electronic check,DSL,1,5.0,False,2025-08-14
+CUS-0971,Female,34,53,52.88,3077.32,Two year,Electronic check,DSL,0,2.0,False,2022-06-01
+CUS-0972,Female,29,46,48.31,2032.38,One year,Electronic check,Fiber optic,5,2.1,False,2022-12-28
+CUS-0973,Male,63,43,45.31,1987.77,One year,Bank transfer,No internet,1,4.5,False,2023-03-28
+CUS-0974,Female,24,72,51.41,3821.34,Two year,Credit card,No internet,6,7.1,False,2020-11-08
+CUS-0975,Female,38,26,43.73,1240.24,One year,Credit card,DSL,6,2.1,True,2024-08-19
+CUS-0976,Female,38,50,47.46,2032.19,Month-to-month,Credit card,DSL,4,2.2,True,2022-08-30
+CUS-0977,Female,52,68,28.72,2037.78,Month-to-month,Mailed check,Fiber optic,6,7.5,True,2021-03-08
+CUS-0978,Female,40,52,32.58,1833.73,One year,Credit card,DSL,4,7.3,False,2022-07-01
+CUS-0979,Male,59,16,105.09,1902.23,Month-to-month,Credit card,Fiber optic,0,8.4,True,2025-06-15
+CUS-0980,Male,38,56,46.5,2282.16,Two year,Electronic check,No internet,0,9.4,False,2022-03-03
+CUS-0981,Male,68,6,35.53,241.78,Month-to-month,Electronic check,DSL,6,3.4,False,2026-04-11
+CUS-0982,Male,55,59,36.39,2030.64,Month-to-month,Mailed check,No internet,7,7.0,False,2021-12-03
+CUS-0983,Female,60,63,117.75,7021.92,Two year,Mailed check,Fiber optic,1,3.4,False,2021-08-05
+CUS-0984,Female,40,72,104.38,6934.52,Two year,Bank transfer,No internet,1,1.7,True,2020-11-08
+CUS-0985,Female,18,28,69.47,1878.09,One year,Credit card,DSL,3,8.3,False,2024-06-20
+CUS-0986,Female,37,59,87.25,5684.88,Month-to-month,Bank transfer,Fiber optic,5,4.5,False,2021-12-03
+CUS-0987,Male,50,26,99.1,2335.39,One year,Mailed check,Fiber optic,4,9.6,True,2024-08-19
+CUS-0988,Female,74,14,95.78,1236.55,One year,Bank transfer,DSL,0,5.3,False,2025-08-14
+CUS-0989,Male,25,71,32.99,2294.14,Month-to-month,Mailed check,No internet,6,5.6,False,2020-12-08
+CUS-0990,Female,41,13,29.67,372.12,One year,Bank transfer,DSL,3,4.6,False,2025-09-13
+CUS-0991,Male,49,67,66.19,4675.75,Two year,Bank transfer,Fiber optic,3,2.0,False,2021-04-07
+CUS-0992,Female,33,9,75.55,634.15,Two year,Mailed check,DSL,6,1.9,False,2026-01-11
+CUS-0993,Female,28,27,58.03,1467.16,Two year,Electronic check,No internet,0,1.8,False,2024-07-20
+CUS-0994,Male,72,31,41.17,1345.74,Month-to-month,Bank transfer,DSL,7,2.3,False,2024-03-22
+CUS-0995,Female,45,43,26.98,1325.24,Month-to-month,Bank transfer,No internet,0,6.3,False,2023-03-28
+CUS-0996,Male,49,32,69.89,1931.32,Month-to-month,Electronic check,Fiber optic,8,5.5,False,2024-02-21
+CUS-0997,Female,24,39,101.37,3758.54,One year,Electronic check,No internet,4,7.0,False,2023-07-26
+CUS-0998,Male,18,46,53.61,2343.06,Two year,Mailed check,Fiber optic,4,7.2,True,2022-12-28
+CUS-0999,Male,44,29,87.64,2268.32,One year,Credit card,Fiber optic,6,4.2,True,2024-05-21
+CUS-1000,Female,42,14,116.72,1818.97,Two year,Mailed check,No internet,2,3.4,False,2025-08-14
