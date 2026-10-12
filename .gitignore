@@ -1,4 +1,4 @@
-```gitignore
+gitignore
 # Environment secrets
 .env
 .env.*
@@ -58,3 +58,7 @@ Thumbs.db
 
 # Model backups
 *.joblib.backup
+
+# Temporary recovery files
+*.corrupted.joblib
+frontend/src/App.broken.jsx
