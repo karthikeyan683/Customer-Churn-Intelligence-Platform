@@ -1,2 +1,24 @@
-﻿"""initial database schema baselineRevision ID: d504f67710b1Revises:Create Date: 2026-10-09 10:19:33.928189"""from typing import Sequence, Unionfrom alembic import opimport sqlalchemy as sa# revision identifiers, used by Alembic.revision: str = 'd504f67710b1'down_revision: Union[str, Sequence[str], None] = Nonebranch_labels: Union[str, Sequence[str], None] = Nonedepends_on: Union[str, Sequence[str], None] = Nonedef upgrade() -> None:    """Upgrade schema."""    passdef downgrade() -> None:    """Downgrade schema."""    pass
+﻿
+"""Initial database schema baseline.
 
+Revision ID: d504f67710b1
+Revises:
+Create Date: 2026-10-09
+"""
+
+from typing import Sequence, Union
+
+revision: str = "d504f67710b1"
+down_revision: Union[str, Sequence[str], None] = None
+branch_labels: Union[str, Sequence[str], None] = None
+depends_on: Union[str, Sequence[str], None] = None
+
+
+def upgrade() -> None:
+    """Create the initial baseline."""
+    pass
+
+
+def downgrade() -> None:
+    """Remove the initial baseline."""
+    pass
